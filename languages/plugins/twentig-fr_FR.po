@@ -1,0 +1,3196 @@
+# Translation of Plugins - Twentig – Twenty Twenty Customization, Gutenberg Blocks &amp; Templates - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Twentig – Twenty Twenty Customization, Gutenberg Blocks &amp; Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-02 16:38:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Twentig – Twenty Twenty Customization, Gutenberg Blocks &amp; Templates - Stable (latest release)\n"
+
+#: inc/twentytwenty/index.php:831
+msgid "Site Title Font Weight"
+msgstr "Épaisseur de police du titre du site"
+
+#: inc/twentytwenty/index.php:807
+msgid "Fallback Site Title Font"
+msgstr "Police de secours du titre du site"
+
+#: inc/twentytwenty/index.php:781
+msgid "Custom Site Title Font"
+msgstr "Police personnalisée du titre du site"
+
+#: inc/twentytwenty/index.php:755
+msgid "Site Title Font"
+msgstr "Police du titre du site"
+
+#: inc/patterns/text.php:65
+msgid "Heading on Left and Text"
+msgstr "Titre à gauche et texte"
+
+#: inc/patterns/list.php:92
+msgid "Lists: 4 Columns with Image"
+msgstr "Listes : 4 colonnes avec image"
+
+#: inc/patterns/list.php:83
+msgid "Lists: 3 Columns with Border"
+msgstr "Listes : 3 colonnes avec bordure"
+
+#: inc/patterns/list.php:56
+msgid "Alternating List and Image"
+msgstr "Liste et image alternées"
+
+#: inc/patterns/list.php:47
+msgid "Bold List and Image on Left"
+msgstr "Liste en gras et image à gauche"
+
+#: inc/patterns/list.php:38
+msgid "List and Image on Left"
+msgstr "Liste et image à gauche"
+
+#: inc/patterns/list.php:29
+msgid "Emphasized List and Heading on Left"
+msgstr "Liste mise en avant et titre à gauche"
+
+#: inc/patterns/list.php:20
+msgid "List and Heading on Left"
+msgstr "Liste et titre à gauche"
+
+#: inc/patterns/faq.php:56
+msgid "FAQ: Alternating Colored Backgrounds"
+msgstr "FAQ : arrière-plans colorés alternés"
+
+#: inc/patterns/faq.php:29
+msgid "FAQ: List with Separator"
+msgstr "FAQ : liste avec séparateur"
+
+#: inc/patterns/faq.php:20
+msgid "FAQ: List with Bordered Heading"
+msgstr "FAQ : liste avec titre borduré"
+
+#: inc/patterns/faq.php:13 inc/patterns/faq.php:22 inc/patterns/faq.php:31
+#: inc/patterns/faq.php:40 inc/patterns/faq.php:49 inc/patterns/faq.php:58
+msgctxt "Block pattern content"
+msgid "How can I contact you?"
+msgstr "Comment puis-je vous contacter ?"
+
+#: inc/patterns/text-image.php:219
+msgid "3 Offset Images"
+msgstr "3 images décalées"
+
+#: inc/patterns/text-image.php:210
+msgid "2 Offset Images"
+msgstr "2 images décalées"
+
+#: inc/patterns/text-image.php:201
+msgid "2 Captioned Images"
+msgstr "2 images légendées"
+
+#: inc/patterns/text-image.php:174
+msgid "Small headings and Image on Left"
+msgstr "Petits titres et image à gauche"
+
+#: inc/patterns/text-image.php:165
+msgid "List with Text and Image on Left"
+msgstr "Liste avec texte et image à gauche"
+
+#: inc/patterns/text-image.php:156
+msgid "List with Text and Image on Right"
+msgstr "Liste avec texte et image à droite"
+
+#: inc/patterns/text-image.php:147
+msgid "Horizontal Cards"
+msgstr "Cartes horizontales"
+
+#: inc/patterns/text-image.php:120
+msgid "Alternating Text and Image: Full Width"
+msgstr "Texte et image alternés : pleine largeur"
+
+#: inc/patterns/text-image.php:102
+msgid "Text Columns and Image at the Top"
+msgstr "Colonnes de texte et image au-dessus"
+
+#: inc/patterns/text-image.php:93
+msgid "Text Columns and Image at the Bottom"
+msgstr "Colonnes de texte et image en dessous"
+
+#: inc/patterns/text-image.php:39
+msgid "Text and Image: Alternating Colored Backgrounds"
+msgstr "Texte et image : arrière-plans colorés alternés"
+
+#: inc/patterns/text-image.php:30
+msgid "Alternating Text and Image"
+msgstr "Texte et image alternés"
+
+#: inc/patterns/text-image.php:21
+msgid "Text and Image on Right"
+msgstr "Texte et image à droite"
+
+#: inc/patterns/text-image.php:12
+msgid "Text and Image on Left"
+msgstr "Texte et image à gauche"
+
+#: inc/patterns/events.php:65
+msgid "Schedule: Weekly"
+msgstr "Programme : hebdomadaire"
+
+#: inc/patterns/events.php:40 inc/patterns/events.php:49
+#: inc/patterns/events.php:58 inc/patterns/events.php:67
+msgctxt "Block pattern content (noun)"
+msgid "Schedule"
+msgstr "Programme"
+
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Tuesday, January 5"
+msgstr "Mardi 5 janvier"
+
+#: inc/patterns/events.php:20
+msgid "Events: List with Image on Left"
+msgstr "Évènements : liste avec image à gauche"
+
+#: inc/patterns/logos.php:93
+msgid "Logos 4 Columns: Center Alignment"
+msgstr "Logos 4 colonnes : alignement au centre"
+
+#: inc/patterns/logos.php:48
+msgid "Logos: Heading on Left"
+msgstr "Logos : titre à gauche"
+
+#: inc/patterns/logos.php:39
+msgid "Logos 3 Columns: No Gutter"
+msgstr "Logos 3 colonnes : sans gouttière"
+
+#: inc/patterns/logos.php:21
+msgid "Logo 2 Columns: Card with Link"
+msgstr "Logos 2 colonnes : carte avec lien"
+
+#: inc/patterns/team.php:147
+msgid "Team: Overlap Image"
+msgstr "Équipe : chevauchement d’image"
+
+#: inc/patterns/team.php:138
+msgid "Team: Alternating Text and Image"
+msgstr "Équipe : texte et image alternés"
+
+#: inc/patterns/team.php:129
+msgid "Team: Image on left"
+msgstr "Équipe : image à gauche"
+
+#: inc/patterns/team.php:30
+msgid "Team 2 Columns: Image with Frame"
+msgstr "Équipe 2 colonnes : image avec cadre"
+
+#: inc/patterns/team.php:21
+msgid "Team 2 Columns: Centered Content"
+msgstr "Équipe 2 colonnes : contenu centré"
+
+#: inc/patterns/latest-posts.php:83
+msgid "Posts 3 Columns: Card with Text Only"
+msgstr "Articles 3 colonnes : carte avec texte uniquement"
+
+#: inc/patterns/latest-posts.php:47
+msgid "Posts 2 Columns: Image on Left"
+msgstr "Articles 2 colonnes : image à gauche"
+
+#: inc/patterns/latest-posts.php:38
+msgid "Posts: List with Image on Left"
+msgstr "Articles : liste avec image à gauche"
+
+#: inc/patterns/latest-posts.php:29
+msgid "Posts: List with Image on Right"
+msgstr "Articles : liste avec image à droite"
+
+#: inc/patterns/latest-posts.php:20
+msgid "Posts: List with Separator"
+msgstr "Articles : liste avec séparateur"
+
+#: inc/patterns/pricing.php:219
+msgid "Price List: 4 Columns with Image"
+msgstr "Liste de prix : 4 colonnes avec image"
+
+#: inc/patterns/pricing.php:201
+msgid "Price List: 3 Columns with Centered Text"
+msgstr "Liste de prix : 3 colonnes avec texte centré"
+
+#: inc/patterns/pricing.php:183
+msgid "Price List: 2 Columns with Top Border"
+msgstr "Liste de prix : 2 colonnes avec bordure supérieure"
+
+#: inc/patterns/pricing.php:165
+msgid "Price List: Stack with Separator"
+msgstr "Liste de prix : pile avec séparateur"
+
+#: inc/patterns/pricing.php:156
+msgid "Price List: Stack"
+msgstr "Liste de prix : pile"
+
+#: inc/patterns/pricing.php:86 inc/patterns/pricing.php:95
+#: inc/patterns/pricing.php:104 inc/patterns/pricing.php:113
+#: inc/patterns/pricing.php:122 inc/patterns/pricing.php:131
+msgctxt "Block pattern content (refers to a pricing plan, smaller than Enterprise)"
+msgid "Business"
+msgstr "Business"
+
+#: inc/patterns/pricing.php:75
+msgid "Pricing 2 Column Cards: Gradient Background"
+msgstr "Tarifs 2 colonnes cartes : arrière-plan en dégradé"
+
+#: inc/patterns/pages.php:67
+msgctxt "Block pattern content - In the context of a resume"
+msgid "Education"
+msgstr "Formation"
+
+#: inc/patterns/pages.php:67
+msgctxt "Block pattern content"
+msgid "Experience"
+msgstr "Expérience"
+
+#: inc/patterns/pages.php:57 inc/patterns/team.php:23 inc/patterns/team.php:41
+#: inc/patterns/team.php:50 inc/patterns/team.php:59 inc/patterns/team.php:68
+#: inc/patterns/team.php:77 inc/patterns/team.php:86 inc/patterns/team.php:95
+#: inc/patterns/team.php:104 inc/patterns/team.php:113
+#: inc/patterns/team.php:122
+msgctxt "Block pattern content - Referring to a woman"
+msgid "Founder"
+msgstr "Fondatrice"
+
+#: inc/patterns/video-audio.php:56
+msgid "Column Cards with Video"
+msgstr "Colonnes cartes avec vidéo"
+
+#: inc/patterns/video-audio.php:47
+msgid "Text Columns and Video"
+msgstr "Colonnes de texte et vidéo"
+
+#: inc/patterns/video-audio.php:38
+msgid "Video with Frame and Text on Right"
+msgstr "Vidéo avec cadre et texte à droite"
+
+#: inc/patterns/video-audio.php:29
+msgid "Video with Text on Left"
+msgstr "Vidéo avec texte à gauche"
+
+#: inc/patterns/video-audio.php:20
+msgid "Text and Video"
+msgstr "Texte et vidéo"
+
+#: inc/patterns/gallery.php:93
+msgid "Gallery 4 Columns: Image with Frame"
+msgstr "Galerie 4 colonnes : image avec cadre"
+
+#: inc/patterns/gallery.php:68
+msgctxt "Block pattern content"
+msgid "Caption"
+msgstr "Légende"
+
+#: inc/patterns/gallery.php:48
+msgid "Gallery: Center Alignment"
+msgstr "Galerie : alignement au centre"
+
+#: inc/patterns/gallery.php:39
+msgid "Gallery: Stretched Images"
+msgstr "Galerie : images étirées"
+
+#: inc/patterns/contact.php:149
+msgid "Contact: Map"
+msgstr "Contact : carte"
+
+#: inc/patterns/contact.php:140
+msgid "Contact: Opening Hours"
+msgstr "Contact : horaires d’ouverture"
+
+#: inc/patterns/contact.php:131
+msgid "Contact: Cover with 3 Columns"
+msgstr "Contact : bannière avec 3 colonnes"
+
+#: inc/patterns/contact.php:122
+msgid "Contact: Cover with 2 Columns"
+msgstr "Contact : bannière avec 2 colonnes"
+
+#: inc/patterns/contact.php:104
+msgid "Contact: Cover with Inline Links"
+msgstr "Contact : bannière avec liens en ligne"
+
+#: inc/patterns/contact.php:77
+msgid "Contact: Image on Right"
+msgstr "Contact : image à droite"
+
+#: inc/patterns/contact.php:68
+msgid "Contact: Heading on Left"
+msgstr "Contact : titre à gauche"
+
+#: inc/patterns/contact.php:59
+msgid "Contact: Emphasized Info"
+msgstr "Contact : infos mises en avant"
+
+#: inc/patterns/contact.php:41
+msgid "Contact: Info with Small Headings"
+msgstr "Contact : infos avec petits titres"
+
+#: inc/patterns/contact.php:32
+msgid "Contact: Large Text"
+msgstr "Contact : texte large"
+
+#: inc/patterns/contact.php:14
+msgid "Contact: Call To Action"
+msgstr "Contact : appel à l’action"
+
+#: inc/patterns/numbers.php:29
+msgid "Numbers: List with Headings"
+msgstr "Nombres : liste avec titres"
+
+#: inc/patterns/hero.php:165
+msgid "Hero Cover with Image on Right"
+msgstr "Bannière de titre de page avec image à droite"
+
+#: inc/patterns/hero.php:156
+msgid "Hero with Gradient Background and Buttons"
+msgstr "Bannière de titre de page avec arrière-plan en dégradé et boutons"
+
+#: inc/patterns/hero.php:147
+msgid "Hero with Gradient Background"
+msgstr "Bannière de titre de page avec arrière-plan en dégradé"
+
+#: inc/patterns/hero.php:93
+msgid "Hero with Title on Left and Image at the Bottom"
+msgstr "Titre de page à gauche et image en dessous"
+
+#: inc/patterns/hero.php:57
+msgid "Full Width Hero with Image on Right"
+msgstr "Titre de page avec image à droite en pleine largeur"
+
+#: inc/patterns/hero.php:48
+msgid "Hero with Eyebrow Title and Image on Right"
+msgstr "Titre de page en avant-titre avec image à droite"
+
+#: inc/patterns/hero.php:39
+msgid "Hero with Button and Image on Right"
+msgstr "Titre de page avec bouton et image à droite"
+
+#: inc/patterns/hero.php:12
+msgid "Hero with Colored Background"
+msgstr "Titre de page avec arrière-plan coloré"
+
+#: inc/patterns/cta.php:102
+msgid "CTA: 2 Columns with Cover"
+msgstr "CTA : 2 colonnes avec bannière"
+
+#: inc/patterns/cta.php:93
+msgid "CTA: Gradient Background with 2 Columns"
+msgstr "CTA : arrière-plan en dégradé avec 2 colonnes"
+
+#: inc/patterns/cta.php:66
+msgid "CTA: Image on Right"
+msgstr "CTA : image à droite"
+
+#: inc/patterns/cta.php:57
+msgid "CTA: Heading on Left"
+msgstr "CTA : titre à gauche"
+
+#: inc/patterns/cta.php:39
+msgid "CTA: Gradient Background with Buttons"
+msgstr "CTA : arrière-plan en dégradé avec boutons"
+
+#: inc/patterns/cta.php:30
+msgid "CTA: Wide Gradient Background"
+msgstr "CTA : large arrière-plan en dégradé"
+
+#: inc/patterns/cta.php:21
+msgid "CTA: Colored Background with Text"
+msgstr "CTA : arrière-plan coloré avec texte"
+
+#: inc/patterns/cta.php:12
+msgid "CTA: Colored Background"
+msgstr "CTA : arrière-plan coloré"
+
+#: inc/patterns/text.php:83
+msgid "Bordered Heading and Small Headings"
+msgstr "Titre borduré et petits titres"
+
+#: inc/patterns/text.php:74
+msgid "Small Heading and Wide Text"
+msgstr "Petit titre et texte en grande largeur"
+
+#: inc/patterns/cover.php:102
+msgid "2 Columns with Cover x 2: Full Width"
+msgstr "2 colonnes avec bannière x 2 : pleine largeur"
+
+#: inc/patterns/cover.php:93
+msgid "2 Columns with Cover x 2: Top Aligned Text"
+msgstr "2 colonnes avec bannière x 2 : texte aligné en haut"
+
+#: inc/patterns/cover.php:84
+msgid "2 Columns with Cover: Bottom Aligned Text"
+msgstr "2 colonnes avec bannière : texte aligné en bas"
+
+#: inc/patterns/cover.php:75
+msgid "2 Columns with Cover"
+msgstr "2 colonnes avec bannière"
+
+#: inc/patterns/text.php:49 inc/patterns/cover.php:50
+msgctxt "Block pattern content"
+msgid "Write a lead paragraph."
+msgstr "Rédigez un paragraphe d’introduction."
+
+#: inc/patterns/columns-text.php:92
+msgid "4 Text Columns: Centered Text"
+msgstr "4 colonnes de texte : texte centré"
+
+#: inc/patterns/columns-text.php:56
+msgid "3 Text Columns: Centered Text"
+msgstr "3 colonnes de texte : texte centré"
+
+#: inc/patterns/columns-text.php:11
+msgid "2 Text Columns: Centered Text"
+msgstr "2 colonnes de texte : texte centré"
+
+#: inc/patterns/columns.php:182
+msgid "4 Columns: Centered Content"
+msgstr "4 colonnes : contenu centré"
+
+#: inc/patterns/columns.php:146
+msgid "3 Column Cards: Image on Left"
+msgstr "3 colonnes cartes : image à gauche"
+
+#: inc/patterns/columns.php:128
+msgid "3 Columns: Centered Content"
+msgstr "3 colonnes : contenu centré"
+
+#: inc/patterns/columns.php:119
+msgid "3 Column Cards: Unstretched Image"
+msgstr "3 colonnes cartes : image non étirée"
+
+#: inc/patterns/columns.php:47
+msgid "2 Columns x 2: Image on Left"
+msgstr "2 colonnes x 2 : image à gauche"
+
+#: inc/patterns/columns.php:38
+msgid "2 Columns: Centered Content"
+msgstr "2 colonnes : contenu centré"
+
+#: inc/patterns/columns.php:29
+msgid "2 Column Cards: Unstretched Image"
+msgstr "2 colonnes cartes : image non étirée"
+
+#: inc/patterns/testimonials.php:138
+msgid "Testimonials 3 Columns: Card with Image"
+msgstr "Témoignages 3 colonnes : carte avec image"
+
+#: inc/patterns/testimonials.php:120
+msgid "Testimonials 3 Columns: Card with Icon"
+msgstr "Témoignages 3 colonnes : carte avec icône"
+
+#: inc/patterns/testimonials.php:84
+msgid "Testimonials 2 Columns x 2: Gradient Background"
+msgstr "Témoignages 2 colonnes x 2 : arrière-plan en dégradé"
+
+#: inc/patterns/pages.php:57 inc/patterns/pages.php:67
+#: inc/patterns/testimonials.php:77 inc/patterns/testimonials.php:86
+#: inc/patterns/testimonials.php:113 inc/patterns/testimonials.php:149
+#: inc/patterns/team.php:14 inc/patterns/team.php:23 inc/patterns/team.php:41
+#: inc/patterns/team.php:50 inc/patterns/team.php:59 inc/patterns/team.php:68
+#: inc/patterns/team.php:77 inc/patterns/team.php:86 inc/patterns/team.php:95
+#: inc/patterns/team.php:104 inc/patterns/team.php:113
+#: inc/patterns/team.php:122 inc/patterns/team.php:131
+#: inc/patterns/team.php:140 inc/patterns/team.php:149
+msgctxt "Block pattern content - Referring to a man"
+msgid "Designer"
+msgstr "Designer"
+
+#: inc/patterns/testimonials.php:57
+msgid "Testimonial: Image on Right"
+msgstr "Témoignage : image à droite"
+
+#: inc/patterns/testimonials.php:48
+msgid "Testimonial: Image on Left"
+msgstr "Témoignage : image à gauche"
+
+#: inc/patterns/testimonials.php:30
+msgid "Testimonial: Colored Background"
+msgstr "Témoignage : arrière-plan coloré"
+
+#: inc/patterns/pages.php:57 inc/patterns/pages.php:67
+#: inc/patterns/testimonials.php:14 inc/patterns/testimonials.php:23
+#: inc/patterns/testimonials.php:77 inc/patterns/testimonials.php:86
+#: inc/patterns/testimonials.php:113 inc/patterns/testimonials.php:122
+#: inc/patterns/testimonials.php:131 inc/patterns/testimonials.php:140
+#: inc/patterns/testimonials.php:149 inc/patterns/team.php:23
+#: inc/patterns/team.php:59 inc/patterns/team.php:68 inc/patterns/team.php:77
+#: inc/patterns/team.php:86 inc/patterns/team.php:95 inc/patterns/team.php:104
+#: inc/patterns/team.php:113
+msgctxt "Block pattern content - Referring to a man"
+msgid "Photographer"
+msgstr "Photographe"
+
+#: inc/patterns/pages.php:57 inc/patterns/testimonials.php:14
+#: inc/patterns/testimonials.php:23 inc/patterns/testimonials.php:68
+#: inc/patterns/testimonials.php:77 inc/patterns/testimonials.php:86
+#: inc/patterns/testimonials.php:95 inc/patterns/testimonials.php:104
+#: inc/patterns/testimonials.php:113 inc/patterns/testimonials.php:122
+#: inc/patterns/testimonials.php:131 inc/patterns/testimonials.php:140
+#: inc/patterns/testimonials.php:149 inc/patterns/team.php:14
+#: inc/patterns/team.php:23 inc/patterns/team.php:41 inc/patterns/team.php:50
+#: inc/patterns/team.php:59 inc/patterns/team.php:68 inc/patterns/team.php:77
+#: inc/patterns/team.php:86 inc/patterns/team.php:95 inc/patterns/team.php:104
+#: inc/patterns/team.php:113 inc/patterns/team.php:122
+#: inc/patterns/team.php:131 inc/patterns/team.php:140
+#: inc/patterns/team.php:149
+msgctxt "Block pattern content - Referring to a woman"
+msgid "Developer"
+msgstr "Développeuse"
+
+#: inc/patterns/pages.php:37 inc/patterns/testimonials.php:14
+#: inc/patterns/testimonials.php:23 inc/patterns/testimonials.php:32
+#: inc/patterns/testimonials.php:41 inc/patterns/testimonials.php:50
+#: inc/patterns/testimonials.php:59 inc/patterns/testimonials.php:68
+#: inc/patterns/testimonials.php:77 inc/patterns/testimonials.php:86
+#: inc/patterns/testimonials.php:95 inc/patterns/testimonials.php:104
+#: inc/patterns/testimonials.php:113 inc/patterns/testimonials.php:122
+#: inc/patterns/testimonials.php:131 inc/patterns/testimonials.php:140
+#: inc/patterns/testimonials.php:149
+msgctxt "Block pattern content - Referring to a man"
+msgid "Teacher"
+msgstr "Professeur"
+
+#: inc/patterns/pages.php:74 inc/patterns/pages.php:84
+#: inc/patterns/pages.php:94 inc/block-patterns.php:110
+msgctxt "Block pattern category"
+msgid "Services"
+msgstr "Services"
+
+#: inc/patterns/pages.php:44 inc/patterns/pages.php:54
+#: inc/patterns/pages.php:64 inc/block-patterns.php:106
+msgctxt "Block pattern category"
+msgid "About"
+msgstr "À propos"
+
+#: inc/patterns/pages.php:14 inc/patterns/pages.php:24
+#: inc/patterns/pages.php:34 inc/block-patterns.php:102
+msgctxt "Block pattern category"
+msgid "Homepage"
+msgstr "Page d’accueil"
+
+#: inc/about.php:159
+msgid "Receive exclusive pre-designed templates and resources — for free."
+msgstr "Recevez en exclusivité des templates préconçus et des ressources, gratuitement."
+
+#: inc/about.php:91
+msgid "Advanced customization"
+msgstr "Personnalisation avancée"
+
+#: inc/about.php:53
+msgid "Resources"
+msgstr "Ressources"
+
+#: inc/block-presets.php:86
+msgid "Add a sepia filter to the images."
+msgstr "Ajouter un filtre sépia aux images."
+
+#: inc/block-presets.php:85
+msgid "Add a black & white filter to the images."
+msgstr "Ajouter un filtre noir et blanc aux images."
+
+#: inc/block-presets.php:82
+msgid "Make the font size of the caption larger."
+msgstr "Augmenter la taille de police des légendes."
+
+#: inc/block-presets.php:78
+msgid "Add a black & white filter to the image."
+msgstr "Ajouter un filtre noir et blanc à l’image."
+
+#: inc/block-presets.php:79
+msgid "Add a sepia filter to the image."
+msgstr "Ajouter un filtre sépia à l’image."
+
+#: inc/block-presets.php:75
+msgid "Make the corners of the image rounded."
+msgstr "Arrondir les coins de l’image."
+
+#: inc/block-presets.php:72
+msgid "Limit the media width when the media and the text are stacked."
+msgstr "Limiter la largeur du média lorsque le média et le texte sont empilés."
+
+#: inc/block-presets.php:71
+msgid "Limit the text width when the block is full width."
+msgstr "Limiter la largeur du texte lorsque le bloc est en pleine largeur."
+
+#: inc/block-presets.php:67 inc/block-presets.php:115
+msgid "Make the corners of the cards rounded."
+msgstr "Arrondir les coins des cartes."
+
+#: inc/block-presets.php:59 inc/block-presets.php:64 inc/block-presets.php:74
+msgid "Make the corners of the block rounded."
+msgstr "Arrondir les coins du bloc."
+
+#: inc/block-presets.php:55
+msgid "Make the block full height."
+msgstr "Mettre le bloc en pleine hauteur."
+
+#: inc/block-presets.php:52
+msgid "Vertically align top the text in the cells."
+msgstr "Aligner verticalement en haut le texte dans les cellules."
+
+#: inc/block-presets.php:48
+msgid "Make the block wide width."
+msgstr "Mettre le bloc en grande largeur."
+
+#: inc/block-presets.php:42
+msgid "Make the text italic."
+msgstr "Passer le texte en italique."
+
+#: inc/block-presets.php:41
+msgid "Make the text bold."
+msgstr "Passer le texte en gras."
+
+#: inc/block-presets.php:40
+msgid "Make the font size larger."
+msgstr "Rendre la taille de police très grande."
+
+#: inc/block-presets.php:39
+msgid "Make the font size large."
+msgstr "Rendre la taille de police grande."
+
+#: inc/block-presets.php:38
+msgid "Make the font size medium."
+msgstr "Rendre la taille de police moyenne."
+
+#: inc/block-presets.php:37 inc/block-presets.php:51
+msgid "Make the font size small."
+msgstr "Rendre la taille de police petite."
+
+#: inc/block-presets.php:30
+msgid "Make the letter spacing normal."
+msgstr "Rendre l’interlettrage normal."
+
+#: inc/block-presets.php:26
+msgid "Add a border below the heading."
+msgstr "Ajouter une bordure sous le titre."
+
+#: inc/block-presets.php:23 inc/block-presets.php:34
+msgid "Make the corners of the block rounded if a background color is set."
+msgstr "Rendre les coins du bloc arrondis si une couleur d’arrière-plan est définie."
+
+#: inc/block-presets.php:20 inc/block-presets.php:31
+msgid "Make the letter spacing loose."
+msgstr "Rendre l’interlettrage ample."
+
+#: inc/block-presets.php:19
+msgid "Make the letter spacing tight."
+msgstr "Rendre l’interlettrage serré."
+
+#: inc/block-presets.php:18
+msgid "Make the line height tight."
+msgstr "Rendre l’interligne serré."
+
+#: inc/block-presets.php:17 inc/block-presets.php:29
+msgid "Make the text small and uppercase."
+msgstr "Passer le texte en petit et en majuscules."
+
+#: inc/block-presets.php:16 inc/block-presets.php:28 inc/block-presets.php:43
+msgid "Make the text uppercase."
+msgstr "Passer le texte en majuscules."
+
+#: inc/twentytwenty/index.php:2157
+msgid "Get more for free"
+msgstr "Obtenez plus gratuitement"
+
+#: inc/twentytwenty/index.php:2147
+msgid "Logos Only - Large Size"
+msgstr "Logos uniquement - grande taille"
+
+#: inc/twentytwenty/index.php:2123
+msgid "Mobile Menu"
+msgstr "Menu sur mobile"
+
+#: inc/twentytwenty/index.php:2122
+msgid "Desktop Expanded Menu"
+msgstr "Menu étendu grands écrans"
+
+#: inc/twentytwenty/index.php:2083
+msgid "Make the button text uppercase"
+msgstr "Passer le texte du bouton en majuscules"
+
+#: inc/twentytwenty/index.php:2046
+msgctxt "button shape"
+msgid "Pill"
+msgstr "Pilule"
+
+#: inc/twentytwenty/index.php:2045
+msgctxt "button shape"
+msgid "Rounded"
+msgstr "Arrondi"
+
+#: inc/twentytwenty/index.php:2044
+msgctxt "button shape"
+msgid "Square"
+msgstr "Carré"
+
+#: inc/twentytwenty/index.php:2024
+msgctxt "style"
+msgid "Minimal"
+msgstr "Minimal"
+
+#: inc/twentytwenty/index.php:1961
+msgctxt "navigation"
+msgid "None"
+msgstr "Aucune"
+
+#: inc/twentytwenty/index.php:1826 inc/twentytwenty/index.php:1933
+msgid "Categories above Title"
+msgstr "Catégories au-dessus du titre"
+
+#: inc/twentytwenty/index.php:1792 dist/index.js:1
+msgctxt "image aspect ratio"
+msgid "Original"
+msgstr "Originale"
+
+#: inc/twentytwenty/index.php:1690
+msgid "Columns"
+msgstr "Colonnes"
+
+#: inc/twentytwenty/index.php:1648
+msgid "Posts Page"
+msgstr "Page des articles"
+
+#: inc/twentytwenty/index.php:1570
+msgid "Search Page"
+msgstr "Page de recherche"
+
+#. translators: link to cover template panel
+#: inc/twentytwenty/index.php:1559 inc/twentytwenty/index.php:1888
+msgid "Visit the <a href=\"%s\">Cover Template panel</a> if you want to change the settings of the cover."
+msgstr "Consultez le <a href=\"%s\">panneau Modèle avec bannière</a> si vous souhaitez modifier les réglages de la bannière."
+
+#: inc/twentytwenty/index.php:1554 inc/twentytwenty/index.php:1883
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: inc/twentytwenty/index.php:1553 inc/twentytwenty/index.php:1882
+msgctxt "image width"
+msgid "Narrow"
+msgstr "Étroite"
+
+#: inc/twentytwenty/index.php:1488
+msgid "Custom Credit"
+msgstr "Crédit personnalisé"
+
+#: inc/twentytwenty/index.php:1473
+msgctxt "footer credit"
+msgid "None"
+msgstr "Aucun"
+
+#: inc/twentytwenty/index.php:1472
+msgctxt "footer credit"
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: inc/twentytwenty/index.php:1337
+msgctxt "layout"
+msgid "Hidden"
+msgstr "Masquée"
+
+#: inc/twentytwenty/index.php:1335
+msgctxt "layout"
+msgid "Inline Center"
+msgstr "En ligne centrée"
+
+#: inc/twentytwenty/index.php:1334
+msgid "Inline with Menu on Right"
+msgstr "En ligne avec menu à droite"
+
+#: inc/twentytwenty/index.php:1333
+msgid "Inline with Menu on Left"
+msgstr "En ligne avec menu à gauche"
+
+#: inc/twentytwenty/index.php:1222 inc/twentytwenty/index.php:2066
+msgctxt "adjective"
+msgid "Underline"
+msgstr "Souligné"
+
+#: inc/twentytwenty/index.php:1221 dist/index.js:1
+msgctxt "style"
+msgid "None"
+msgstr "Aucun"
+
+#: inc/twentytwenty/index.php:1217
+msgid "Menu Hover/Active Link Style"
+msgstr "Style de lien survolé/actif du menu"
+
+#: inc/twentytwenty/index.php:1179
+msgctxt "spacing"
+msgid "Large"
+msgstr "Grand"
+
+#: inc/twentytwenty/index.php:1178
+msgctxt "spacing"
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/twentytwenty/index.php:1177
+msgctxt "spacing"
+msgid "Small"
+msgstr "Petit"
+
+#: inc/twentytwenty/index.php:1137
+msgctxt "decoration"
+msgid "None"
+msgstr "Aucune"
+
+#: inc/twentytwenty/index.php:1099 inc/twentytwenty/index.php:1382
+msgctxt "width"
+msgid "Full"
+msgstr "Pleine"
+
+#: inc/twentytwenty/index.php:1098 inc/twentytwenty/index.php:1381
+msgctxt "width"
+msgid "Wider (1680px)"
+msgstr "Très large (1680px)"
+
+#: inc/twentytwenty/index.php:1097 inc/twentytwenty/index.php:1380
+msgctxt "width"
+msgid "Wide (1200px)"
+msgstr "Large (1200px)"
+
+#: inc/twentytwenty/index.php:1076 inc/twentytwenty/index.php:1336
+#: inc/twentytwenty/index.php:1593 inc/twentytwenty/index.php:1671
+msgctxt "layout"
+msgid "Stack"
+msgstr "Empilée"
+
+#: inc/twentytwenty/index.php:1075
+msgid "Menu on Left"
+msgstr "Menu à gauche"
+
+#: inc/twentytwenty/index.php:922 inc/twentytwenty/index.php:1026
+msgctxt "text transform"
+msgid "None"
+msgstr "Aucune"
+
+#: inc/twentytwenty/index.php:873
+msgid "Site Title Font Size on Mobile (px)"
+msgstr "Taille de police du titre du site sur mobile (px)"
+
+#: inc/twentytwenty/index.php:688 inc/twentytwenty/index.php:1005
+msgctxt "font size"
+msgid "Larger"
+msgstr "Très grande"
+
+#: inc/twentytwenty/index.php:664
+msgctxt "letter spacing"
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/twentytwenty/index.php:663
+msgctxt "letter spacing"
+msgid "Tight"
+msgstr "Serré"
+
+#: inc/twentytwenty/index.php:524
+msgctxt "line height"
+msgid "Loose"
+msgstr "Ample"
+
+#: inc/twentytwenty/index.php:523
+msgctxt "line height"
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/twentytwenty/index.php:522
+msgctxt "line height"
+msgid "Tight"
+msgstr "Serré"
+
+#: inc/twentytwenty/index.php:501 inc/twentytwenty/index.php:687
+#: inc/twentytwenty/index.php:1004 inc/twentytwenty/index.php:1416
+#: dist/index.js:1
+msgctxt "font size"
+msgid "Large"
+msgstr "Grande"
+
+#: inc/twentytwenty/index.php:500 inc/twentytwenty/index.php:686
+#: inc/twentytwenty/index.php:1003 inc/twentytwenty/index.php:1415
+#: dist/index.js:1
+msgctxt "font size"
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/twentytwenty/index.php:499 inc/twentytwenty/index.php:685
+#: inc/twentytwenty/index.php:1002 inc/twentytwenty/index.php:1414
+#: dist/index.js:1
+msgctxt "font size"
+msgid "Small"
+msgstr "Petite"
+
+#: inc/twentytwenty/index.php:364
+msgctxt "text width"
+msgid "Wide"
+msgstr "Large"
+
+#: inc/twentytwenty/index.php:363
+msgctxt "text width"
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/twentytwenty/index.php:362
+msgctxt "text width"
+msgid "Narrow (default)"
+msgstr "Étroite (par défaut)"
+
+#: inc/twentytwenty/index.php:293
+msgid "Display scroll indicator on page cover"
+msgstr "Afficher l’indicateur de défilement pour la bannière de page"
+
+#: inc/twentytwenty/index.php:276 inc/twentytwenty/index.php:316
+msgctxt "height"
+msgid "Full"
+msgstr "Pleine"
+
+#: inc/twentytwenty/index.php:275 inc/twentytwenty/index.php:315
+msgctxt "height"
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/twentytwenty/index.php:128
+msgid "Custom Hexadecimal Color"
+msgstr "Couleur hexadécimale personnalisée"
+
+#: inc/twentytwenty/index.php:107
+msgid "Logo Width on Mobile (px)"
+msgstr "Largeur du logo sur mobile (px)"
+
+#: inc/twentytwenty/class-twentig-page-templater.php:51
+msgctxt "page template name"
+msgid "Twentig - Transparent header light"
+msgstr "Twentig - En-tête transparent clair"
+
+#: inc/twentytwenty/class-twentig-page-templater.php:50
+msgctxt "page template name"
+msgid "Twentig - Transparent header"
+msgstr "Twentig - En-tête transparent"
+
+#: inc/twentytwenty/class-twentig-page-templater.php:49
+msgctxt "page template name"
+msgid "Twentig - No header, no footer"
+msgstr "Twentig - Pas d’en-tête, pas de pied de page"
+
+#: inc/twentytwenty/class-twentig-page-templater.php:48
+msgctxt "page template name"
+msgid "Twentig - No title"
+msgstr "Twentig - Pas de titre"
+
+#: inc/twentytwenty/index.php:1830 inc/twentytwenty/index.php:1937
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire"
+
+#: inc/twentytwenty/index.php:1673
+msgid "Card Grid"
+msgstr "Grille de cartes"
+
+#. translators: link to theme options panel
+#: inc/twentytwenty/index.php:1284 inc/twentytwenty/index.php:1504
+msgid "Visit the <a href=\"%s\">Additional Settings panel</a> to set the locations and style of the social icons."
+msgstr "Consultez le <a href=\"%s\">panneau des Réglages supplémentaires </a> pour définir les emplacements et le style des icônes de réseaux sociaux."
+
+#: inc/twentytwenty/index.php:1410
+msgid "Footer Font Size"
+msgstr "Taille de police du pied de page"
+
+#: inc/twentytwenty/index.php:1234
+msgid "Menu & Search Buttons"
+msgstr "Boutons de menu et de recherche"
+
+#: inc/twentytwenty/index.php:328
+msgid "Twentig Options"
+msgstr "Options Twentig"
+
+#: inc/settings.php:110
+msgid "It isn’t recommended to disable this option if you’ve already built pages with Twentig block settings."
+msgstr "Il est déconseillé de désactiver cette option si vous avez déjà créé des pages avec les réglages de blocs Twentig."
+
+#: inc/settings.php:108
+msgid "Enable Twentig block features (additional block settings, block template library)"
+msgstr "Activer les fonctionnalités de blocs Twentig (réglages de blocs supplémentaires, bibliothèque de templates de blocs)"
+
+#: inc/settings.php:46
+msgid "Twentig Block Features"
+msgstr "Fonctionnalités de blocs Twentig"
+
+#. Description of the plugin
+msgid "The easiest way to build a beautiful website — advanced Twenty Twenty options, enhanced blocks, and pre-designed templates."
+msgstr "Le moyen le plus simple de créer un superbe site web : options avancées pour Twenty Twenty, blocs améliorés et templates préconçus."
+
+#: inc/patterns/gallery.php:12
+msgid "Gallery: Stack"
+msgstr "Galerie : empilement"
+
+#: inc/patterns/cta.php:84
+msgid "CTA: 2 Columns"
+msgstr "CTA : 2 colonnes"
+
+#: inc/patterns/cta.php:75
+msgid "CTA: Horizontal Card"
+msgstr "CTA : carte horizontale"
+
+#: inc/patterns/pages.php:17 inc/patterns/pages.php:27
+#: inc/patterns/pages.php:57 inc/patterns/pages.php:87
+#: inc/patterns/pages.php:97 inc/patterns/cta.php:50 inc/patterns/cta.php:86
+msgctxt "Block pattern content"
+msgid "Write a call to action heading to engage your audience"
+msgstr "Rédigez un titre d’appel à l’action pour engager votre audience"
+
+#: inc/patterns/cta.php:48
+msgid "CTA: Cover"
+msgstr "CTA : bannière"
+
+#: inc/patterns/cta.php:14 inc/patterns/cta.php:41 inc/patterns/cta.php:59
+msgctxt "Block pattern content"
+msgid "Write a call to action heading"
+msgstr "Rédigez un titre d’appel à l’action"
+
+#: inc/patterns/columns.php:209
+msgid "2 Columns + 3 Columns"
+msgstr "2 colonnes + 3 colonnes"
+
+#: inc/patterns/columns.php:200
+msgid "4 Columns x 2"
+msgstr "4 colonnes x 2"
+
+#: inc/patterns/columns.php:191
+msgid "4 Columns: Circle Image"
+msgstr "4 colonnes : image circulaire"
+
+#: inc/patterns/columns.php:173
+msgid "4 Columns"
+msgstr "4 colonnes"
+
+#: inc/patterns/columns.php:164
+msgid "3 Columns x 2"
+msgstr "3 colonnes x 2"
+
+#: inc/patterns/columns.php:155
+msgid "3 Column Cards: Cover"
+msgstr "3 colonnes cartes : bannière"
+
+#: inc/patterns/columns.php:137
+msgid "3 Columns: Circle Image"
+msgstr "3 colonnes : image circulaire"
+
+#: inc/patterns/columns.php:110
+msgid "3 Column Cards"
+msgstr "3 colonnes cartes"
+
+#: inc/patterns/columns.php:101
+msgid "3 Columns"
+msgstr "3 colonnes"
+
+#: inc/patterns/columns.php:92
+msgid "2 Columns x 2"
+msgstr "2 colonnes x 2"
+
+#: inc/patterns/columns.php:83
+msgid "2 Column Cards: Cover"
+msgstr "2 colonnes cartes : bannière"
+
+#: inc/patterns/columns.php:74
+msgid "2 Columns: Cover"
+msgstr "2 colonnes : bannière"
+
+#: inc/patterns/columns.php:65
+msgid "2 Column Cards: Top Alignment"
+msgstr "2 colonnes cartes : alignement en haut"
+
+#: inc/patterns/columns.php:56
+msgid "2 Columns: Middle Alignment"
+msgstr "2 colonnes : alignement au milieu"
+
+#: inc/patterns/columns.php:20
+msgid "2 Column Cards"
+msgstr "2 colonnes cartes"
+
+#: inc/patterns/columns.php:11
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+#: inc/patterns/columns-text.php:83
+msgid "4 Text Columns"
+msgstr "4 colonnes de texte"
+
+#: inc/patterns/columns-text.php:74
+msgid "3 Text Columns x 2: Top Border"
+msgstr "3 colonnes de texte x 2 : bordure supérieure"
+
+#: inc/patterns/columns-text.php:65
+msgid "3 Text Columns x 2"
+msgstr "3 colonnes de texte x 2"
+
+#: inc/patterns/columns-text.php:47
+msgid "3 Text Columns"
+msgstr "3 colonnes de texte"
+
+#: inc/patterns/columns-text.php:38
+msgid "2 Text Columns: Index"
+msgstr "2 colonnes de texte : index"
+
+#: inc/patterns/columns-text.php:29
+msgid "2 Text Columns x 2"
+msgstr "2 colonnes de texte x 2"
+
+#: inc/patterns/columns-text.php:20
+msgid "2 Text Columns"
+msgstr "2 colonnes de texte"
+
+#: inc/patterns/numbers.php:56
+msgid "Numbers: 4 Columns"
+msgstr "Nombres : 4 colonnes"
+
+#: inc/patterns/numbers.php:47
+msgid "Numbers: 3 Columns with Top Border"
+msgstr "Nombres : 3 colonnes avec bordure supérieure"
+
+#: inc/patterns/numbers.php:38
+msgid "Numbers: 3 Columns"
+msgstr "Nombres : 3 colonnes"
+
+#: inc/patterns/numbers.php:20
+msgid "Stats: 4 Columns"
+msgstr "Statistiques : 4 colonnes"
+
+#: inc/patterns/numbers.php:11
+msgid "Stats: 3 Columns"
+msgstr "Statistiques : 3 colonnes"
+
+#: inc/patterns/testimonials.php:147
+msgid "Testimonials 4 Columns: Thumbnail"
+msgstr "Témoignages 4 colonnes : miniature"
+
+#: inc/patterns/testimonials.php:129
+msgid "Testimonials 3 Columns: Card with Thumbnail"
+msgstr "Témoignages 3 colonnes : carte avec miniature"
+
+#: inc/patterns/testimonials.php:111
+msgid "Testimonials 3 Columns x 2"
+msgstr "Témoignages 3 colonnes x 2"
+
+#: inc/patterns/testimonials.php:102
+msgid "Testimonials 2 Columns: Cover"
+msgstr "Témoignages 2 colonnes : bannière"
+
+#: inc/patterns/testimonials.php:93
+msgid "Testimonials 2 Columns: Image"
+msgstr "Témoignages 2 colonnes : image"
+
+#: inc/patterns/testimonials.php:77 inc/patterns/testimonials.php:86
+#: inc/patterns/testimonials.php:113 inc/patterns/testimonials.php:122
+#: inc/patterns/testimonials.php:149
+msgctxt "Block pattern content"
+msgid "What our customers are saying about us"
+msgstr "Ce que nos clients disent de nous"
+
+#: inc/patterns/testimonials.php:75
+msgid "Testimonials 2 Columns x 2"
+msgstr "Témoignages 2 colonnes x 2"
+
+#: inc/patterns/testimonials.php:66
+msgid "Testimonials: Overlap Image"
+msgstr "Témoignages : chevauchement d’image"
+
+#: inc/patterns/testimonials.php:39
+msgid "Testimonial: Cover"
+msgstr "Témoignage : bannière"
+
+#: inc/patterns/testimonials.php:21
+msgid "Testimonials: List with Large Quote"
+msgstr "Témoignages : liste avec grande citation"
+
+#: inc/patterns/testimonials.php:14 inc/patterns/testimonials.php:23
+#: inc/patterns/testimonials.php:68 inc/patterns/testimonials.php:95
+#: inc/patterns/testimonials.php:131 inc/patterns/testimonials.php:140
+msgctxt "Block pattern content"
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/patterns/testimonials.php:12
+msgid "Testimonials: List with Separator"
+msgstr "Témoignages : liste avec séparateur"
+
+#: inc/patterns/events.php:56
+msgid "Schedule: List with Description"
+msgstr "Programme : liste avec description"
+
+#: inc/patterns/events.php:47
+msgid "Schedule: List"
+msgstr "Programme : liste"
+
+#: inc/patterns/events.php:38
+msgid "Schedule: Table"
+msgstr "Programme : tableau"
+
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Fourth Event"
+msgstr "Quatrième évènement"
+
+#: inc/patterns/events.php:29
+msgid "Events: Column Cards"
+msgstr "Évènements : colonnes cartes"
+
+#: inc/patterns/events.php:13 inc/patterns/events.php:22
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Saturday, December 12"
+msgstr "Samedi 12 décembre"
+
+#: inc/patterns/events.php:13 inc/patterns/events.php:22
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Third Event"
+msgstr "Troisième évènement"
+
+#: inc/patterns/events.php:13 inc/patterns/events.php:22
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Monday, October 24"
+msgstr "Lundi 24 octobre"
+
+#: inc/patterns/events.php:13 inc/patterns/events.php:22
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Second Event"
+msgstr "Deuxième évènement"
+
+#: inc/patterns/events.php:13 inc/patterns/events.php:22
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Friday, September 18"
+msgstr "Vendredi 18 septembre"
+
+#: inc/patterns/events.php:13 inc/patterns/events.php:22
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "First Event"
+msgstr "Premier évènement"
+
+#: inc/patterns/events.php:13 inc/patterns/events.php:22
+#: inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Our events"
+msgstr "Nos évènements"
+
+#: inc/patterns/events.php:11
+msgid "Events: List"
+msgstr "Évènements : liste"
+
+#: inc/patterns/contact.php:142
+msgctxt "Block pattern content"
+msgid "Closed"
+msgstr "Fermé"
+
+#: inc/patterns/contact.php:142 inc/patterns/events.php:67
+msgctxt "Block pattern content"
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: inc/patterns/contact.php:142 inc/patterns/events.php:67
+msgctxt "Block pattern content"
+msgid "Saturday"
+msgstr "Samedi"
+
+#: inc/patterns/contact.php:142 inc/patterns/events.php:67
+msgctxt "Block pattern content"
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: inc/patterns/contact.php:142
+msgctxt "Block pattern content"
+msgid "9am - 4pm"
+msgstr "9h-16h"
+
+#: inc/patterns/contact.php:142 inc/patterns/events.php:67
+msgctxt "Block pattern content"
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: inc/patterns/contact.php:142 inc/patterns/events.php:67
+msgctxt "Block pattern content"
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: inc/patterns/contact.php:142
+msgctxt "Block pattern content"
+msgid "9am - 7pm"
+msgstr "9h-19h"
+
+#: inc/patterns/contact.php:142 inc/patterns/events.php:67
+msgctxt "Block pattern content"
+msgid "Monday"
+msgstr "Lundi"
+
+#: inc/patterns/contact.php:43 inc/patterns/contact.php:88
+#: inc/patterns/contact.php:133 inc/patterns/contact.php:142
+#: inc/patterns/contact.php:151
+msgctxt "Block pattern content"
+msgid "Opening hours"
+msgstr "Horaires d’ouverture"
+
+#: inc/patterns/contact.php:113
+msgid "Contact: Cover"
+msgstr "Contact : bannière"
+
+#: inc/patterns/contact.php:97
+msgctxt "Block pattern contact content"
+msgid "Press"
+msgstr "Presse"
+
+#: inc/patterns/contact.php:97
+msgctxt "Block pattern contact content"
+msgid "Careers"
+msgstr "Carrières"
+
+#: inc/patterns/contact.php:97
+msgctxt "Block pattern contact content"
+msgid "General"
+msgstr "Général"
+
+#: inc/patterns/contact.php:95
+msgid "Contact: 4 Columns"
+msgstr "Contact : 4 colonnes"
+
+#: inc/patterns/contact.php:86
+msgid "Contact: 3 Columns"
+msgstr "Contact : 3 colonnes"
+
+#: inc/patterns/pages.php:117 inc/patterns/pages.php:127
+#: inc/patterns/contact.php:79 inc/patterns/contact.php:97
+msgctxt "Block pattern content"
+msgid "Social"
+msgstr "Réseaux sociaux"
+
+#: inc/patterns/pages.php:127 inc/patterns/contact.php:61
+#: inc/patterns/contact.php:106
+msgctxt "Block pattern content"
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/patterns/pages.php:127 inc/patterns/contact.php:61
+msgctxt "Block pattern content"
+msgid "Phone"
+msgstr "Téléphone"
+
+#: inc/patterns/contact.php:52
+msgctxt "Block pattern content"
+msgid "Follow us"
+msgstr "Suivez-nous"
+
+#: inc/patterns/contact.php:50
+msgid "Contact: 2 Columns"
+msgstr "Contact : 2 colonnes"
+
+#: inc/patterns/pages.php:117 inc/patterns/contact.php:43
+#: inc/patterns/contact.php:52 inc/patterns/contact.php:70
+#: inc/patterns/contact.php:79 inc/patterns/contact.php:88
+#: inc/patterns/contact.php:124 inc/patterns/contact.php:133
+#: inc/patterns/contact.php:142
+msgctxt "Block pattern content"
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/patterns/contact.php:43 inc/patterns/contact.php:88
+#: inc/patterns/contact.php:133 inc/patterns/contact.php:151
+msgctxt "Block pattern content"
+msgid "Saturday: 9am - 10pm"
+msgstr "Samedi : 9h-22h"
+
+#: inc/patterns/contact.php:43 inc/patterns/contact.php:88
+#: inc/patterns/contact.php:133 inc/patterns/contact.php:151
+msgctxt "Block pattern content"
+msgid "Monday - Friday: 9am - 7pm"
+msgstr "Lundi - Vendredi : 9h-19h"
+
+#: inc/patterns/pages.php:117 inc/patterns/contact.php:43
+#: inc/patterns/contact.php:61 inc/patterns/contact.php:70
+#: inc/patterns/contact.php:88 inc/patterns/contact.php:124
+#: inc/patterns/contact.php:133 inc/patterns/contact.php:142
+#: inc/patterns/contact.php:151
+msgctxt "Block pattern content"
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/patterns/contact.php:23
+msgid "Contact: Simple"
+msgstr "Contact : simple"
+
+#: inc/patterns/pages.php:57 inc/patterns/cta.php:86 inc/patterns/cta.php:95
+#: inc/patterns/cta.php:104 inc/patterns/contact.php:16
+#: inc/patterns/contact.php:151
+msgctxt "Block pattern content"
+msgid "Contact us"
+msgstr "Nous contacter"
+
+#: inc/patterns/pages.php:107 inc/patterns/pages.php:127
+#: inc/patterns/contact.php:16 inc/patterns/contact.php:25
+#: inc/patterns/contact.php:43 inc/patterns/contact.php:52
+#: inc/patterns/contact.php:61 inc/patterns/contact.php:70
+#: inc/patterns/contact.php:79 inc/patterns/contact.php:124
+#: inc/patterns/contact.php:142
+msgctxt "Block pattern content"
+msgid "If you have any questions or just want to say hello, please don’t hesitate to contact us. We’ll get back to you soon."
+msgstr "Si vous avez des questions ou souhaitez simplement nous saluer, n’hésitez pas à nous contacter. Nous vous répondrons au plus vite."
+
+#: inc/patterns/pages.php:107 inc/patterns/pages.php:117
+#: inc/patterns/pages.php:127 inc/patterns/contact.php:16
+#: inc/patterns/contact.php:25 inc/patterns/contact.php:34
+#: inc/patterns/contact.php:43 inc/patterns/contact.php:52
+#: inc/patterns/contact.php:61 inc/patterns/contact.php:70
+#: inc/patterns/contact.php:79 inc/patterns/contact.php:88
+#: inc/patterns/contact.php:97 inc/patterns/contact.php:106
+#: inc/patterns/contact.php:115 inc/patterns/contact.php:124
+#: inc/patterns/contact.php:133 inc/patterns/contact.php:142
+#: inc/patterns/contact.php:151
+msgctxt "Block pattern content"
+msgid "Get in touch"
+msgstr "Contactez-nous"
+
+#: inc/patterns/text-image.php:192
+msgid "3 Text Columns and Image"
+msgstr "3 colonnes de texte et image"
+
+#: inc/patterns/text-image.php:183
+msgid "2 Text Columns and Image"
+msgstr "2 colonnes de texte et image"
+
+#: inc/patterns/text-image.php:138
+msgid "Heading with Alternating Text and Image"
+msgstr "Titre avec texte et image alternés"
+
+#: inc/patterns/text-image.php:129
+msgid "Text and Image: Fullscreen"
+msgstr "Texte et image : plein écran"
+
+#: inc/patterns/text-image.php:111
+msgid "Text and Image: Full Width"
+msgstr "Texte et image : pleine largeur"
+
+#: inc/patterns/text-image.php:84
+msgid "Heading Cover and Text"
+msgstr "Bannière de titre et texte"
+
+#: inc/patterns/text-image.php:75
+msgid "Text and Circle Image"
+msgstr "Texte et image circulaire"
+
+#: inc/patterns/text-image.php:66
+msgid "Text and Wide Image"
+msgstr "Texte et image en grande largeur"
+
+#: inc/patterns/text-image.php:57
+msgid "Text and Image Aligned"
+msgstr "Texte et image alignés"
+
+#: inc/patterns/text-image.php:48
+msgid "Text and Overlap Image"
+msgstr "Texte et chevauchement d’image"
+
+#: inc/patterns/pages.php:47 inc/patterns/pages.php:87
+#: inc/patterns/columns-text.php:40 inc/patterns/text-image.php:32
+#: inc/patterns/text-image.php:41 inc/patterns/text-image.php:50
+#: inc/patterns/text-image.php:122
+msgctxt "Block pattern content"
+msgid "Write another heading"
+msgstr "Rédigez un autre titre"
+
+#: inc/patterns/columns.php:202 inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Eighth item"
+msgstr "Huitième élément"
+
+#: inc/patterns/columns.php:202 inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Seventh item"
+msgstr "Septième élément"
+
+#: inc/patterns/pricing.php:210
+msgid "Price List: 3 Column Gallery"
+msgstr "Liste de prix : galerie à 3 colonnes"
+
+#: inc/patterns/pages.php:57 inc/patterns/columns.php:166
+#: inc/patterns/columns.php:202 inc/patterns/numbers.php:49
+#: inc/patterns/columns-text.php:67 inc/patterns/columns-text.php:76
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Sixth item"
+msgstr "Sixième élément"
+
+#: inc/patterns/pages.php:57 inc/patterns/columns.php:166
+#: inc/patterns/columns.php:202 inc/patterns/columns.php:211
+#: inc/patterns/numbers.php:49 inc/patterns/events.php:58
+#: inc/patterns/columns-text.php:67 inc/patterns/columns-text.php:76
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Fifth item"
+msgstr "Cinquième élément"
+
+#: inc/patterns/pricing.php:192
+msgid "Price List: 3 Columns"
+msgstr "Liste de prix : 3 colonnes"
+
+#: inc/patterns/pricing.php:174
+msgid "Price List: 2 Column Cards"
+msgstr "Liste de prix : 2 colonnes cartes"
+
+#: inc/patterns/pricing.php:147
+msgid "Price List: Table with Description"
+msgstr "Liste de prix : tableau avec description"
+
+#: inc/patterns/pricing.php:138
+msgid "Price List: Table"
+msgstr "Liste de prix : tableau"
+
+#: inc/patterns/pricing.php:131
+msgctxt "Block pattern pricing content"
+msgid "Enterprise"
+msgstr "Entreprise"
+
+#: inc/patterns/pricing.php:129
+msgid "Pricing 4 Column Cards"
+msgstr "Tarifs 4 colonnes cartes"
+
+#: inc/patterns/pricing.php:120
+msgid "Pricing 3 Columns: Image"
+msgstr "Tarifs 3 colonnes : image"
+
+#: inc/patterns/pricing.php:111
+msgid "Pricing 3 Column Cards: Image"
+msgstr "Tarifs 3 colonnes cartes : image"
+
+#: inc/patterns/pricing.php:102
+msgid "Pricing 3 Column Cards: Small Image"
+msgstr "Tarifs 3 colonnes cartes : petite image"
+
+#: inc/patterns/pricing.php:93
+msgid "Pricing 3 Column Cards: Checkmarked List"
+msgstr "Tarifs 3 colonnes cartes : liste avec coche"
+
+#: inc/patterns/pricing.php:84
+msgid "Pricing 3 Column Cards"
+msgstr "Tarifs 3 colonnes cartes"
+
+#: inc/patterns/pricing.php:66
+msgid "Pricing 2 Column Cards: Image"
+msgstr "Tarifs 2 colonnes cartes : image"
+
+#: inc/patterns/pricing.php:57
+msgid "Pricing 2 Column Cards: Middle Alignment"
+msgstr "Tarifs 2 colonnes cartes : alignement au milieu"
+
+#: inc/patterns/pricing.php:48
+msgid "Pricing 2 Column Cards: Full Width Button"
+msgstr "Tarifs 2 colonnes cartes : bouton en pleine largeur"
+
+#: inc/patterns/pricing.php:41 inc/patterns/pricing.php:50
+#: inc/patterns/pricing.php:68 inc/patterns/pricing.php:104
+#: inc/patterns/pricing.php:113 inc/patterns/pricing.php:122
+#: inc/patterns/pricing.php:140 inc/patterns/pricing.php:149
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:194
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Pricing"
+msgstr "Tarifs"
+
+#: inc/patterns/pricing.php:39
+msgid "Pricing 2 Column Cards"
+msgstr "Tarifs 2 colonnes cartes"
+
+#: inc/patterns/pricing.php:32 inc/patterns/pricing.php:41
+#: inc/patterns/pricing.php:50 inc/patterns/pricing.php:59
+#: inc/patterns/pricing.php:68 inc/patterns/pricing.php:77
+#: inc/patterns/pricing.php:86 inc/patterns/pricing.php:95
+#: inc/patterns/pricing.php:104 inc/patterns/pricing.php:113
+#: inc/patterns/pricing.php:122 inc/patterns/pricing.php:131
+msgctxt "Block pattern pricing content"
+msgid "Premium"
+msgstr "Premium"
+
+#: inc/patterns/pricing.php:32 inc/patterns/pricing.php:41
+#: inc/patterns/pricing.php:50 inc/patterns/pricing.php:59
+#: inc/patterns/pricing.php:68 inc/patterns/pricing.php:77
+#: inc/patterns/pricing.php:86 inc/patterns/pricing.php:95
+#: inc/patterns/pricing.php:104 inc/patterns/pricing.php:113
+#: inc/patterns/pricing.php:122 inc/patterns/pricing.php:131
+msgctxt "Block pattern pricing content"
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/patterns/pricing.php:32 inc/patterns/pricing.php:59
+#: inc/patterns/pricing.php:77 inc/patterns/pricing.php:86
+#: inc/patterns/pricing.php:95 inc/patterns/pricing.php:131
+#: inc/patterns/pricing.php:185
+msgctxt "Block pattern content"
+msgid "Choose the right solution that fits your needs"
+msgstr "Choisissez la solution adaptée à vos besoins"
+
+#: inc/patterns/pricing.php:30
+msgid "Pricing 2 Columns"
+msgstr "Tarifs 2 colonnes"
+
+#: inc/patterns/pricing.php:21
+msgid "Single Pricing: Card"
+msgstr "Tarif unique : carte"
+
+#: inc/patterns/pricing.php:14 inc/patterns/pricing.php:23
+msgctxt "Block pattern content"
+msgid "Simple pricing"
+msgstr "Un tarif simple"
+
+#: inc/patterns/pricing.php:12
+msgid "Single Pricing"
+msgstr "Tarif unique"
+
+#: inc/patterns/gallery.php:84
+msgid "Gallery 4 Columns"
+msgstr "Galerie 4 colonnes"
+
+#: inc/patterns/gallery.php:75
+msgid "Gallery 3 Columns: Full Width No Gutter"
+msgstr "Galerie 3 colonnes : sans gouttière en pleine largeur"
+
+#: inc/patterns/gallery.php:66
+msgid "Gallery 3 Columns: Large Caption"
+msgstr "Galerie 3 colonnes : grande légende"
+
+#: inc/patterns/gallery.php:57
+msgid "Gallery 3 Columns"
+msgstr "Galerie 3 colonnes"
+
+#: inc/patterns/gallery.php:30
+msgid "Gallery: Alternating Widths"
+msgstr "Galerie : largeurs alternées"
+
+#: inc/patterns/gallery.php:21
+msgid "Gallery 2 Columns"
+msgstr "Galerie 2 colonnes"
+
+#: inc/patterns/team.php:120
+msgid "Team: List"
+msgstr "Équipe : liste"
+
+#: inc/patterns/team.php:111
+msgid "Team 4 Columns: Top Border"
+msgstr "Équipe 4 colonnes : bordure supérieure"
+
+#: inc/patterns/team.php:102
+msgid "Team 4 Columns: Gallery"
+msgstr "Équipe 4 colonnes : galerie"
+
+#: inc/patterns/team.php:93
+msgid "Team 4 Columns x 2"
+msgstr "Équipe 4 colonnes x 2"
+
+#: inc/patterns/team.php:84
+msgid "Team 4 Columns"
+msgstr "Équipe 4 colonnes"
+
+#: inc/patterns/team.php:75
+msgid "Team 3 Columns: Top Border"
+msgstr "Équipe 3 colonnes : bordure supérieure"
+
+#: inc/patterns/team.php:66
+msgid "Team 3 Columns: Gallery"
+msgstr "Équipe 3 colonnes : galerie"
+
+#: inc/patterns/team.php:57
+msgid "Team 3 Columns x 2"
+msgstr "Équipe 3 colonnes x 2"
+
+#: inc/patterns/team.php:48
+msgid "Team 3 Columns: Circle Image"
+msgstr "Équipe 3 colonnes : image circulaire"
+
+#: inc/patterns/contact.php:142 inc/patterns/events.php:67
+msgctxt "Block pattern content"
+msgid "Friday"
+msgstr "Vendredi"
+
+#: inc/patterns/team.php:39
+msgid "Team 3 Columns"
+msgstr "Équipe 3 colonnes"
+
+#: inc/patterns/pages.php:67
+msgctxt "Block pattern content"
+msgid "Clients"
+msgstr "Clients"
+
+#: inc/patterns/pages.php:57 inc/patterns/team.php:14 inc/patterns/team.php:23
+#: inc/patterns/team.php:32 inc/patterns/team.php:41 inc/patterns/team.php:50
+#: inc/patterns/team.php:59 inc/patterns/team.php:68 inc/patterns/team.php:77
+#: inc/patterns/team.php:86 inc/patterns/team.php:95 inc/patterns/team.php:104
+#: inc/patterns/team.php:113 inc/patterns/team.php:122
+#: inc/patterns/team.php:131 inc/patterns/team.php:140
+#: inc/patterns/team.php:149
+msgctxt "Block pattern content"
+msgid "Our team"
+msgstr "Notre équipe"
+
+#: inc/patterns/team.php:12
+msgid "Team 2 Columns"
+msgstr "Équipe 2 colonnes"
+
+#: inc/patterns/hero.php:138
+msgid "Hero Cover with Card"
+msgstr "Bannière de titre de page avec carte"
+
+#: inc/patterns/hero.php:129
+msgid "Fullscreen Hero Cover"
+msgstr "Bannière de titre de page en plein écran"
+
+#: inc/patterns/hero.php:120
+msgid "Hero Cover with Button"
+msgstr "Bannière de titre de page avec bouton"
+
+#: inc/patterns/hero.php:111
+msgid "Hero Cover"
+msgstr "Bannière de titre de page"
+
+#: inc/patterns/hero.php:102
+msgid "Hero with Cut Off Image"
+msgstr "Titre de page avec image coupée"
+
+#: inc/patterns/hero.php:84
+msgid "Hero with Overlap Image"
+msgstr "Titre de page avec chevauchement d’image"
+
+#: inc/patterns/hero.php:75
+msgid "Hero with Eyebrow Title and Image"
+msgstr "Titre de page en avant-titre et image"
+
+#: inc/patterns/hero.php:66
+msgid "Hero with Buttons and Image"
+msgstr "Titre de page avec boutons et image"
+
+#: inc/patterns/hero.php:32 inc/patterns/hero.php:50 inc/patterns/hero.php:77
+#: inc/patterns/hero.php:131
+msgctxt "Block pattern content"
+msgid "Page title"
+msgstr "Titre de la page"
+
+#: inc/patterns/hero.php:30
+msgid "Hero with Eyebrow Title"
+msgstr "Titre de page en avant-titre"
+
+#: inc/patterns/pages.php:17 inc/patterns/pages.php:27
+#: inc/patterns/pages.php:37 inc/patterns/pages.php:77
+#: inc/patterns/pages.php:87 inc/patterns/pages.php:97 inc/patterns/cta.php:14
+#: inc/patterns/cta.php:23 inc/patterns/cta.php:32 inc/patterns/cta.php:41
+#: inc/patterns/cta.php:50 inc/patterns/cta.php:59 inc/patterns/cta.php:68
+#: inc/patterns/cta.php:77 inc/patterns/cta.php:86 inc/patterns/cta.php:95
+#: inc/patterns/cta.php:104 inc/patterns/hero.php:23 inc/patterns/hero.php:68
+#: inc/patterns/hero.php:158 inc/patterns/hero.php:167
+#: inc/patterns/pricing.php:14 inc/patterns/pricing.php:23
+#: inc/patterns/pricing.php:32 inc/patterns/pricing.php:41
+#: inc/patterns/pricing.php:50 inc/patterns/pricing.php:59
+#: inc/patterns/pricing.php:68 inc/patterns/pricing.php:77
+#: inc/patterns/pricing.php:86 inc/patterns/pricing.php:95
+#: inc/patterns/pricing.php:104 inc/patterns/pricing.php:113
+#: inc/patterns/pricing.php:122 inc/patterns/pricing.php:131
+msgctxt "Block pattern content"
+msgid "Get started"
+msgstr "Premiers pas"
+
+#: inc/patterns/pages.php:17 inc/patterns/pages.php:27
+#: inc/patterns/pages.php:47 inc/patterns/pages.php:57
+#: inc/patterns/pages.php:87 inc/patterns/hero.php:23 inc/patterns/hero.php:122
+msgctxt "Block pattern content"
+msgid "Write a page title that captivates your audience"
+msgstr "Rédigez un titre de page qui captive votre audience"
+
+#: inc/patterns/hero.php:21
+msgid "Hero with Button"
+msgstr "Titre de page avec bouton"
+
+#: inc/patterns/list.php:101
+msgid "Inline List"
+msgstr "Liste en ligne"
+
+#: inc/patterns/list.php:74
+msgid "Lists: 3 Columns"
+msgstr "Listes : 3 colonnes"
+
+#: inc/patterns/list.php:65
+msgid "Lists: 2 Columns"
+msgstr "Listes : 2 colonnes"
+
+#: inc/patterns/list.php:11
+msgid "List and Text Aligned"
+msgstr "Liste et texte alignés"
+
+#: inc/patterns/faq.php:47
+msgid "FAQ 2 Columns: Top Border"
+msgstr "FAQ 2 colonnes : bordure supérieure"
+
+#: inc/patterns/faq.php:40 inc/patterns/faq.php:49
+msgctxt "Block pattern content"
+msgid "Do you provide support?"
+msgstr "Proposez-vous de l’aide ?"
+
+#: inc/patterns/faq.php:38
+msgid "FAQ 2 Columns"
+msgstr "FAQ 2 colonnes"
+
+#: inc/patterns/faq.php:13 inc/patterns/faq.php:22 inc/patterns/faq.php:31
+#: inc/patterns/faq.php:40 inc/patterns/faq.php:49 inc/patterns/faq.php:58
+msgctxt "Block pattern content"
+msgid "What payment methods do you accept?"
+msgstr "Quels moyens de paiement acceptez-vous ?"
+
+#: inc/patterns/faq.php:13 inc/patterns/faq.php:22 inc/patterns/faq.php:31
+#: inc/patterns/faq.php:40 inc/patterns/faq.php:49 inc/patterns/faq.php:58
+msgctxt "Block pattern content"
+msgid "How does it work?"
+msgstr "Comment ça marche ?"
+
+#: inc/patterns/faq.php:13 inc/patterns/faq.php:22 inc/patterns/faq.php:31
+#: inc/patterns/faq.php:40 inc/patterns/faq.php:49
+msgctxt "Block pattern content"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/patterns/faq.php:11
+msgid "FAQ: List"
+msgstr "FAQ : liste"
+
+#: inc/patterns/latest-posts.php:101
+msgid "Posts 4 Columns"
+msgstr "Articles 4 colonnes"
+
+#: inc/patterns/latest-posts.php:92
+msgid "Posts 3 Columns: Top Border"
+msgstr "Articles 3 colonnes : bordure supérieure"
+
+#: inc/patterns/latest-posts.php:74
+msgid "Posts 3 Columns: Card"
+msgstr "Articles 3 colonnes : carte"
+
+#: inc/patterns/latest-posts.php:65
+msgid "Posts 3 Columns"
+msgstr "Articles 3 colonnes"
+
+#: inc/patterns/latest-posts.php:56
+msgid "Posts 2 Columns"
+msgstr "Articles 2 colonnes"
+
+#: inc/patterns/pages.php:37 inc/patterns/latest-posts.php:13
+#: inc/patterns/latest-posts.php:22 inc/patterns/latest-posts.php:31
+#: inc/patterns/latest-posts.php:40 inc/patterns/latest-posts.php:49
+#: inc/patterns/latest-posts.php:58 inc/patterns/latest-posts.php:67
+#: inc/patterns/latest-posts.php:76 inc/patterns/latest-posts.php:85
+#: inc/patterns/latest-posts.php:94 inc/patterns/latest-posts.php:103
+msgctxt "Block pattern content"
+msgid "Latest posts"
+msgstr "Articles récents"
+
+#: inc/patterns/latest-posts.php:11
+msgid "Posts: List"
+msgstr "Articles : liste"
+
+#: inc/patterns/pages.php:27 inc/patterns/pages.php:57
+#: inc/patterns/pages.php:77 inc/patterns/columns.php:49
+#: inc/patterns/columns.php:94 inc/patterns/columns.php:166
+#: inc/patterns/columns.php:175 inc/patterns/columns.php:184
+#: inc/patterns/columns.php:193 inc/patterns/columns.php:202
+#: inc/patterns/columns.php:211 inc/patterns/numbers.php:49
+#: inc/patterns/events.php:58 inc/patterns/list.php:94
+#: inc/patterns/cover.php:104 inc/patterns/columns-text.php:31
+#: inc/patterns/columns-text.php:67 inc/patterns/columns-text.php:76
+#: inc/patterns/columns-text.php:85 inc/patterns/columns-text.php:94
+#: inc/patterns/pricing.php:149 inc/patterns/pricing.php:158
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:185
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Fourth item"
+msgstr "Quatrième élément"
+
+#: inc/patterns/pages.php:17 inc/patterns/pages.php:27
+#: inc/patterns/pages.php:37 inc/patterns/cta.php:41 inc/patterns/events.php:13
+#: inc/patterns/events.php:22 inc/patterns/cover.php:77
+#: inc/patterns/cover.php:104 inc/patterns/hero.php:41 inc/patterns/hero.php:68
+#: inc/patterns/hero.php:95 inc/patterns/hero.php:122 inc/patterns/hero.php:158
+msgctxt "Block pattern content"
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: inc/patterns/pages.php:17 inc/patterns/pages.php:27
+#: inc/patterns/pages.php:57 inc/patterns/pages.php:77
+#: inc/patterns/pages.php:87 inc/patterns/pages.php:97
+#: inc/patterns/columns.php:49 inc/patterns/columns.php:94
+#: inc/patterns/columns.php:103 inc/patterns/columns.php:112
+#: inc/patterns/columns.php:121 inc/patterns/columns.php:130
+#: inc/patterns/columns.php:139 inc/patterns/columns.php:148
+#: inc/patterns/columns.php:157 inc/patterns/columns.php:166
+#: inc/patterns/columns.php:175 inc/patterns/columns.php:184
+#: inc/patterns/columns.php:193 inc/patterns/columns.php:202
+#: inc/patterns/columns.php:211 inc/patterns/numbers.php:40
+#: inc/patterns/numbers.php:49 inc/patterns/events.php:58
+#: inc/patterns/list.php:76 inc/patterns/list.php:85 inc/patterns/list.php:94
+#: inc/patterns/cover.php:68 inc/patterns/cover.php:104
+#: inc/patterns/columns-text.php:31 inc/patterns/columns-text.php:49
+#: inc/patterns/columns-text.php:58 inc/patterns/columns-text.php:67
+#: inc/patterns/columns-text.php:76 inc/patterns/columns-text.php:85
+#: inc/patterns/columns-text.php:94 inc/patterns/text-image.php:176
+#: inc/patterns/text-image.php:194 inc/patterns/pricing.php:149
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:185
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Third item"
+msgstr "Troisième élément"
+
+#: inc/patterns/cover.php:66
+msgid "Cover with 3 Text Columns"
+msgstr "Bannière avec 3 colonnes de texte"
+
+#: inc/patterns/cover.php:57
+msgid "Cover with 2 Text Columns"
+msgstr "Bannière avec 2 colonnes de texte"
+
+#: inc/patterns/cover.php:48
+msgid "Fullscreen Cover with Heading Above Card"
+msgstr "Bannière en plein écran avec titre au-dessus de la carte"
+
+#: inc/patterns/cover.php:39
+msgid "Fullscreen Cover with Card"
+msgstr "Bannière en plein écran avec carte"
+
+#: inc/patterns/cover.php:30
+msgid "Fullscreen Cover"
+msgstr "Bannière en plein écran"
+
+#: inc/patterns/cover.php:21
+msgid "Full Width Cover"
+msgstr "Bannière en pleine largeur"
+
+#: inc/patterns/cover.php:12
+msgid "Wide Cover"
+msgstr "Bannière en grande largeur"
+
+#: inc/patterns/logos.php:102
+msgid "Logos 5 Columns"
+msgstr "Logos 5 colonnes"
+
+#: inc/patterns/logos.php:84
+msgid "Logos 4 Columns: Card"
+msgstr "Logos 4 colonnes : carte"
+
+#: inc/patterns/logos.php:75
+msgid "Logos 4 Columns: Border"
+msgstr "Logos 4 colonnes : bordure"
+
+#: inc/patterns/logos.php:66
+msgid "Logos 4 Columns: Inner Border"
+msgstr "Logos 4 colonnes : bordure intérieure"
+
+#: inc/patterns/logos.php:57
+msgid "Logos 4 Columns"
+msgstr "Logos 4 colonnes"
+
+#: inc/patterns/logos.php:32 inc/patterns/logos.php:41
+#: inc/patterns/logos.php:68 inc/patterns/logos.php:77
+#: inc/patterns/logos.php:104 inc/patterns/list.php:103
+msgctxt "Block pattern content"
+msgid "Our clients"
+msgstr "Nos clients"
+
+#: inc/patterns/logos.php:30
+msgid "Logos 3 Columns"
+msgstr "Logos 3 colonnes"
+
+#: inc/patterns/logos.php:23 inc/patterns/logos.php:86
+msgctxt "Block pattern content"
+msgid "Our partners"
+msgstr "Nos partenaires"
+
+#: inc/patterns/logos.php:14 inc/patterns/logos.php:50
+#: inc/patterns/logos.php:59 inc/patterns/logos.php:95
+msgctxt "Block pattern content"
+msgid "Trusted by hundreds of companies worldwide"
+msgstr "Des centaines d'entreprises dans le monde nous font confiance"
+
+#: inc/patterns/logos.php:12
+msgid "Clients: Inline List"
+msgstr "Clients : liste en ligne"
+
+#: inc/patterns/video-audio.php:76
+msgctxt "Block pattern content"
+msgid "Listen on Spotify"
+msgstr "Écouter sur Spotify"
+
+#: inc/patterns/video-audio.php:74
+msgid "Media List with Image and Button"
+msgstr "Liste de médias avec image et bouton"
+
+#: inc/patterns/video-audio.php:67 inc/patterns/video-audio.php:76
+msgctxt "Block pattern content"
+msgid "All episodes"
+msgstr "Tous les épisodes"
+
+#: inc/patterns/video-audio.php:65
+msgid "Audio List"
+msgstr "Liste audio"
+
+#: inc/patterns/pages.php:37 inc/patterns/pages.php:67
+#: inc/patterns/pages.php:77 inc/patterns/pages.php:97
+#: inc/patterns/video-audio.php:13 inc/patterns/hero.php:14
+#: inc/patterns/hero.php:41 inc/patterns/hero.php:59 inc/patterns/hero.php:68
+#: inc/patterns/hero.php:86 inc/patterns/hero.php:95 inc/patterns/hero.php:104
+#: inc/patterns/hero.php:113 inc/patterns/hero.php:149
+#: inc/patterns/hero.php:158 inc/patterns/hero.php:167
+msgctxt "Block pattern content"
+msgid "Write the page title"
+msgstr "Rédigez le titre de la page"
+
+#: inc/patterns/video-audio.php:11
+msgid "Hero with Video"
+msgstr "Titre de page avec vidéo"
+
+#: inc/patterns/pages.php:17 inc/patterns/pages.php:27
+#: inc/patterns/pages.php:37 inc/patterns/pages.php:57
+#: inc/patterns/pages.php:67 inc/patterns/pages.php:77
+#: inc/patterns/pages.php:87 inc/patterns/pages.php:97
+#: inc/patterns/columns.php:13 inc/patterns/columns.php:22
+#: inc/patterns/columns.php:31 inc/patterns/columns.php:40
+#: inc/patterns/columns.php:49 inc/patterns/columns.php:58
+#: inc/patterns/columns.php:67 inc/patterns/columns.php:76
+#: inc/patterns/columns.php:85 inc/patterns/columns.php:94
+#: inc/patterns/columns.php:103 inc/patterns/columns.php:112
+#: inc/patterns/columns.php:121 inc/patterns/columns.php:130
+#: inc/patterns/columns.php:139 inc/patterns/columns.php:148
+#: inc/patterns/columns.php:157 inc/patterns/columns.php:166
+#: inc/patterns/columns.php:175 inc/patterns/columns.php:184
+#: inc/patterns/columns.php:193 inc/patterns/columns.php:202
+#: inc/patterns/columns.php:211 inc/patterns/numbers.php:40
+#: inc/patterns/numbers.php:49 inc/patterns/video-audio.php:58
+#: inc/patterns/events.php:58 inc/patterns/list.php:58 inc/patterns/list.php:67
+#: inc/patterns/list.php:76 inc/patterns/list.php:85 inc/patterns/list.php:94
+#: inc/patterns/text.php:85 inc/patterns/cover.php:59 inc/patterns/cover.php:68
+#: inc/patterns/cover.php:77 inc/patterns/cover.php:86
+#: inc/patterns/cover.php:104 inc/patterns/columns-text.php:13
+#: inc/patterns/columns-text.php:22 inc/patterns/columns-text.php:31
+#: inc/patterns/columns-text.php:49 inc/patterns/columns-text.php:58
+#: inc/patterns/columns-text.php:67 inc/patterns/columns-text.php:76
+#: inc/patterns/columns-text.php:85 inc/patterns/columns-text.php:94
+#: inc/patterns/text-image.php:140 inc/patterns/text-image.php:149
+#: inc/patterns/text-image.php:176 inc/patterns/text-image.php:185
+#: inc/patterns/text-image.php:194 inc/patterns/pricing.php:149
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:185
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Second item"
+msgstr "Deuxième élément"
+
+#: inc/patterns/pages.php:17 inc/patterns/pages.php:27
+#: inc/patterns/pages.php:37 inc/patterns/pages.php:57
+#: inc/patterns/pages.php:67 inc/patterns/pages.php:77
+#: inc/patterns/pages.php:87 inc/patterns/pages.php:97
+#: inc/patterns/columns.php:13 inc/patterns/columns.php:22
+#: inc/patterns/columns.php:31 inc/patterns/columns.php:40
+#: inc/patterns/columns.php:49 inc/patterns/columns.php:58
+#: inc/patterns/columns.php:67 inc/patterns/columns.php:76
+#: inc/patterns/columns.php:85 inc/patterns/columns.php:94
+#: inc/patterns/columns.php:103 inc/patterns/columns.php:112
+#: inc/patterns/columns.php:121 inc/patterns/columns.php:130
+#: inc/patterns/columns.php:139 inc/patterns/columns.php:148
+#: inc/patterns/columns.php:157 inc/patterns/columns.php:166
+#: inc/patterns/columns.php:175 inc/patterns/columns.php:184
+#: inc/patterns/columns.php:193 inc/patterns/columns.php:202
+#: inc/patterns/columns.php:211 inc/patterns/numbers.php:40
+#: inc/patterns/numbers.php:49 inc/patterns/video-audio.php:58
+#: inc/patterns/events.php:58 inc/patterns/list.php:58 inc/patterns/list.php:67
+#: inc/patterns/list.php:76 inc/patterns/list.php:85 inc/patterns/list.php:94
+#: inc/patterns/text.php:85 inc/patterns/cover.php:59 inc/patterns/cover.php:68
+#: inc/patterns/cover.php:77 inc/patterns/cover.php:86
+#: inc/patterns/cover.php:104 inc/patterns/columns-text.php:13
+#: inc/patterns/columns-text.php:22 inc/patterns/columns-text.php:31
+#: inc/patterns/columns-text.php:49 inc/patterns/columns-text.php:58
+#: inc/patterns/columns-text.php:67 inc/patterns/columns-text.php:76
+#: inc/patterns/columns-text.php:85 inc/patterns/columns-text.php:94
+#: inc/patterns/text-image.php:140 inc/patterns/text-image.php:149
+#: inc/patterns/text-image.php:176 inc/patterns/text-image.php:185
+#: inc/patterns/text-image.php:194 inc/patterns/pricing.php:149
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:185
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "First item"
+msgstr "Premier élément"
+
+#: inc/patterns/pages.php:37 inc/patterns/pages.php:77
+#: inc/patterns/gallery.php:14 inc/patterns/gallery.php:23
+#: inc/patterns/gallery.php:32 inc/patterns/gallery.php:41
+#: inc/patterns/gallery.php:50 inc/patterns/gallery.php:59
+#: inc/patterns/gallery.php:68 inc/patterns/gallery.php:86
+#: inc/patterns/gallery.php:95 inc/patterns/columns.php:40
+#: inc/patterns/columns.php:49 inc/patterns/columns.php:130
+#: inc/patterns/columns.php:139 inc/patterns/columns.php:148
+#: inc/patterns/columns.php:184 inc/patterns/columns.php:193
+#: inc/patterns/numbers.php:13 inc/patterns/numbers.php:22
+#: inc/patterns/numbers.php:40 inc/patterns/numbers.php:49
+#: inc/patterns/numbers.php:58 inc/patterns/video-audio.php:22
+#: inc/patterns/list.php:13 inc/patterns/list.php:22 inc/patterns/list.php:49
+#: inc/patterns/list.php:58 inc/patterns/list.php:67 inc/patterns/list.php:76
+#: inc/patterns/list.php:85 inc/patterns/text.php:58 inc/patterns/text.php:67
+#: inc/patterns/cover.php:32 inc/patterns/cover.php:50
+#: inc/patterns/cover.php:59 inc/patterns/cover.php:68
+#: inc/patterns/cover.php:77 inc/patterns/cover.php:86
+#: inc/patterns/cover.php:95 inc/patterns/columns-text.php:13
+#: inc/patterns/columns-text.php:22 inc/patterns/columns-text.php:31
+#: inc/patterns/columns-text.php:40 inc/patterns/columns-text.php:49
+#: inc/patterns/columns-text.php:58 inc/patterns/columns-text.php:67
+#: inc/patterns/columns-text.php:76 inc/patterns/columns-text.php:85
+#: inc/patterns/columns-text.php:94 inc/patterns/text-image.php:68
+#: inc/patterns/text-image.php:86 inc/patterns/text-image.php:95
+#: inc/patterns/text-image.php:104 inc/patterns/text-image.php:140
+#: inc/patterns/text-image.php:149 inc/patterns/text-image.php:176
+#: inc/patterns/text-image.php:185 inc/patterns/text-image.php:194
+#: inc/patterns/text-image.php:203 inc/patterns/text-image.php:212
+#: inc/patterns/text-image.php:221 inc/patterns/hero.php:32
+#: inc/patterns/hero.php:50 inc/patterns/hero.php:77 inc/patterns/hero.php:131
+msgctxt "Block pattern content"
+msgid "Write a heading that captivates your audience"
+msgstr "Rédigez un titre qui captive votre audience"
+
+#: inc/patterns/text.php:58 inc/patterns/text.php:76
+msgctxt "Block pattern content"
+msgid "Short heading"
+msgstr "Titre court"
+
+#: inc/patterns/text.php:56
+msgid "Eyebrow Heading"
+msgstr "Avant-titre"
+
+#: inc/patterns/text.php:47
+msgid "Heading and Lead Paragraph"
+msgstr "Titre et paragraphe d’introduction"
+
+#: inc/patterns/text.php:38
+msgid "Heading and Large Text"
+msgstr "Titre et texte large"
+
+#: inc/patterns/text.php:29
+msgid "Large Text"
+msgstr "Texte large"
+
+#: inc/patterns/text.php:20
+msgid "Centered Heading and text"
+msgstr "Titre centré et texte"
+
+#: inc/patterns/pages.php:47 inc/patterns/pages.php:57
+#: inc/patterns/pages.php:67 inc/patterns/pages.php:77
+#: inc/patterns/pages.php:87 inc/patterns/columns.php:13
+#: inc/patterns/columns.php:22 inc/patterns/columns.php:31
+#: inc/patterns/columns.php:58 inc/patterns/columns.php:67
+#: inc/patterns/columns.php:76 inc/patterns/columns.php:85
+#: inc/patterns/columns.php:94 inc/patterns/columns.php:103
+#: inc/patterns/columns.php:112 inc/patterns/columns.php:121
+#: inc/patterns/columns.php:157 inc/patterns/columns.php:166
+#: inc/patterns/columns.php:175 inc/patterns/columns.php:202
+#: inc/patterns/columns.php:211 inc/patterns/numbers.php:31
+#: inc/patterns/cta.php:23 inc/patterns/cta.php:32 inc/patterns/cta.php:68
+#: inc/patterns/cta.php:77 inc/patterns/cta.php:95 inc/patterns/cta.php:104
+#: inc/patterns/video-audio.php:31 inc/patterns/video-audio.php:40
+#: inc/patterns/video-audio.php:49 inc/patterns/video-audio.php:58
+#: inc/patterns/list.php:31 inc/patterns/list.php:40 inc/patterns/list.php:94
+#: inc/patterns/text.php:13 inc/patterns/text.php:22 inc/patterns/text.php:40
+#: inc/patterns/text.php:49 inc/patterns/text.php:85 inc/patterns/cover.php:14
+#: inc/patterns/cover.php:23 inc/patterns/cover.php:41
+#: inc/patterns/columns-text.php:40 inc/patterns/text-image.php:14
+#: inc/patterns/text-image.php:23 inc/patterns/text-image.php:32
+#: inc/patterns/text-image.php:41 inc/patterns/text-image.php:50
+#: inc/patterns/text-image.php:59 inc/patterns/text-image.php:77
+#: inc/patterns/text-image.php:113 inc/patterns/text-image.php:122
+#: inc/patterns/text-image.php:131 inc/patterns/text-image.php:158
+#: inc/patterns/text-image.php:167
+msgctxt "Block pattern content"
+msgid "Write a heading"
+msgstr "Rédigez un titre"
+
+#: inc/patterns/text.php:11
+msgid "Heading and Text"
+msgstr "Titre et texte"
+
+#: inc/block-patterns.php:89
+msgctxt "Block pattern category"
+msgid "Events, Schedule"
+msgstr "Évènements, programme"
+
+#: inc/block-patterns.php:85
+msgctxt "Block pattern category"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/block-patterns.php:81
+msgctxt "Block pattern category"
+msgid "Pricing"
+msgstr "Tarifs"
+
+#: inc/block-patterns.php:77
+msgctxt "Block pattern category"
+msgid "Logos, Clients"
+msgstr "Logos, clients"
+
+#: inc/block-patterns.php:73
+msgctxt "Block pattern category"
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/block-patterns.php:69
+msgctxt "Block pattern category"
+msgid "Team"
+msgstr "Équipe"
+
+#: inc/patterns/pages.php:104 inc/patterns/pages.php:114
+#: inc/patterns/pages.php:124 inc/block-patterns.php:65
+#: inc/block-patterns.php:114
+msgctxt "Block pattern category"
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/block-patterns.php:61
+msgctxt "Block pattern category"
+msgid "Latest Posts"
+msgstr "Articles récents"
+
+#: inc/block-patterns.php:57
+msgctxt "Block pattern category"
+msgid "Video, Audio"
+msgstr "Vidéo, son"
+
+#: inc/block-patterns.php:53
+msgctxt "Block pattern category"
+msgid "Gallery"
+msgstr "Galerie"
+
+#: inc/block-patterns.php:49
+msgctxt "Block pattern category"
+msgid "Numbers, Stats"
+msgstr "Nombres, statistiques"
+
+#: inc/block-patterns.php:45
+msgctxt "Block pattern category"
+msgid "List"
+msgstr "Liste"
+
+#. translators: leave the acronym "CTA" in English if it's used in your
+#. language
+#: inc/block-patterns.php:41
+msgctxt "Block pattern category"
+msgid "Call To Action (CTA)"
+msgstr "Appel à l’action (CTA)"
+
+#: inc/block-patterns.php:36
+msgctxt "Block pattern category"
+msgid "Cover"
+msgstr "Bannière"
+
+#: inc/block-patterns.php:32
+msgctxt "Block pattern category"
+msgid "Hero, Page Title Section"
+msgstr "Section de titre de page"
+
+#: inc/block-patterns.php:28
+msgctxt "Block pattern category"
+msgid "Text"
+msgstr "Texte"
+
+#: inc/block-patterns.php:24
+msgctxt "Block pattern category"
+msgid "Text & Image"
+msgstr "Texte & Image"
+
+#: inc/block-patterns.php:20
+msgctxt "Block pattern category"
+msgid "Text Columns"
+msgstr "Colonnes de texte"
+
+#: inc/block-patterns.php:16
+msgctxt "Block pattern category"
+msgid "Columns"
+msgstr "Colonnes"
+
+#: inc/settings.php:94
+msgid "Enable WordPress Block Directory"
+msgstr "Activer le répertoire de blocs de WordPress"
+
+#: inc/settings.php:80
+msgid "Enable default WordPress block patterns"
+msgstr "Activer les compositions par défaut de WordPress"
+
+#: inc/settings.php:38
+msgid "Block Directory"
+msgstr "Répertoire de blocs"
+
+#: inc/settings.php:30
+msgid "Core Block Patterns"
+msgstr "Compositions de blocs par défaut"
+
+#: inc/about.php:188
+msgid "Support Forum"
+msgstr "Forum de support"
+
+#: inc/about.php:183
+msgid "Tutorials"
+msgstr "Tutoriels"
+
+#. translators: %s:
+#. https://wordpress.org/support/plugin/twentig/reviews/?filter=5
+#: inc/about.php:169 inc/about.php:220
+msgid "Enjoying Twentig? Rate it <a href=\"%1$s\" target=\"_blank\">★★★★★</a> on <a href=\"%2$s\" target=\"_blank\">WordPress</a>."
+msgstr "Vous aimez Twentig ? Notez-le <a href=\"%1$s\" target=\"_blank\">★★★★★</a> sur <a href=\"%2$s\" target=\"_blank\">WordPress</a>."
+
+#: inc/about.php:160 dist/index.js:5
+msgid "Subscribe now"
+msgstr "S’abonner maintenant"
+
+#: inc/about.php:150
+msgid "Crafted by award-winning designers, Twentig layouts are responsive and give your pages a professional look right from the start. You don’t need to have coding and design skills to create the website of your dreams."
+msgstr "Conçus par des designers primés, les templates Twentig sont optimisés pour les appareils mobiles et apportent instantanément à vos pages un aspect professionnel. Nul besoin de compétences en codage et en design pour créer le site web de vos rêves."
+
+#: inc/about.php:149
+msgid "Professional design"
+msgstr "Design professionnel"
+
+#: inc/about.php:146
+msgid "Choose from a variety of versatile block patterns and page layouts that you can mix and match to fit your project. Our template library is designed to enable a wide range of uses and endless design possibilities."
+msgstr "Choisissez parmi une variété de compositions et de templates de pages polyvalents que vous pouvez combiner et adapter à votre projet. Notre bibliothèque de templates permet un large éventail d’utilisations et des possibilités de design infinies."
+
+#: inc/about.php:145
+msgid "Flexible layouts"
+msgstr "Templates flexibles"
+
+#: inc/about.php:137
+msgid "Twentig brings hundreds of ready-to-use block patterns and page layouts — making it easier and faster than ever to create stunning pages."
+msgstr "Twentig propose des centaines de compositions et de templates de pages prêts à l’emploi, il est donc plus facile et rapide que jamais de créer de belles pages."
+
+#: inc/about.php:136
+msgid "Build your pages in no time with pre‑designed layouts."
+msgstr "Créez vos pages en un rien de temps grâce aux templates préconçus."
+
+#: inc/about.php:127
+msgid "Twentig provides alternative styles, advanced block settings, margin controls, and CSS classes. From columns style to group shape divider to typography settings, you have the best tools to build pages that stand out."
+msgstr "Twentig propose des styles supplémentaires, des réglages de blocs avancés, des paramètres de marge et des classes CSS. Du style des colonnes aux formes de séparation des groupes en passant par les réglages typographiques, vous disposez des meilleurs outils pour mettre vos pages en valeur."
+
+#: inc/about.php:126
+msgid "Powerful features"
+msgstr "Fonctionnalités puissantes"
+
+#: inc/about.php:123
+msgid "We’ve added the right amount of features to the WordPress core blocks. So you can easily customize your blocks to fit your needs with just a few clicks. Enjoy a seamless and familiar experience."
+msgstr "Nous avons ajouté la quantité optimale de fonctionnalités aux blocs de base de WordPress. Ainsi, vous pouvez facilement personnaliser vos blocs en fonction de vos besoins en quelques clics. Profitez d’une expérience fluide et familière."
+
+#: inc/about.php:122
+msgid "Ease of use"
+msgstr "Facilité d’utilisation"
+
+#: inc/about.php:114
+msgid "Twentig enhances the existing WordPress blocks — taking the block editor to a new level of design and creativity."
+msgstr "Twentig améliore les blocs de base de WordPress, amenant l’éditeur de blocs à un niveau supérieur de design et de créativité."
+
+#: inc/about.php:113
+msgid "Do more with blocks."
+msgstr "Aller plus loin avec les blocs."
+
+#: inc/about.php:105
+msgid "Twentig brings design improvements to the Twenty Twenty theme. Our additional block settings and pre-designed layouts are specially built for Twenty Twenty — so it’s easier than ever to make beautiful pages."
+msgstr "Twentig améliore le design du thème Twenty Twenty. Nos réglages de blocs et nos templates de pages prêts à l’emploi sont conçus spécialement pour Twenty Twenty, il est donc plus facile que jamais de créer de magnifiques pages."
+
+#: inc/about.php:104
+msgid "Tailored design"
+msgstr "Design sur mesure"
+
+#: inc/about.php:101
+msgid "Our custom page templates allow you to control the look of your entire page. Now you can easily remove the page title, header, footer, or set a transparent header — enabling total design freedom."
+msgstr "Nos modèles de page personnalisés vous permettent de contrôler entièrement l’apparence de votre page. Vous pouvez désormais facilement retirer le titre de la page, l’en-tête, le pied de page ou définir un en-tête transparent, pour une liberté de création totale."
+
+#: inc/about.php:100
+msgid "Design freedom"
+msgstr "Liberté de création"
+
+#: inc/about.php:95
+msgid "Start customizing"
+msgstr "Commencer à personnaliser"
+
+#: inc/about.php:93
+msgid "From post grid to sticky header to footer layout, Twentig provides endless ways to enhance Twenty Twenty. Change the look and feel of your website by customizing the fonts, colors, global styles, 404 page, and more."
+msgstr "De l’affichage des articles du blog en grille à l’en-tête fixe, en passant par la disposition du pied de page, Twentig vous offre des possibilités infinies pour améliorer Twenty Twenty. Changez l’apparence de votre site web en personnalisant les polices, les couleurs, les styles, la page 404, et plus encore."
+
+#: inc/about.php:79
+msgid "Install Twenty Twenty"
+msgstr "Installer Twenty Twenty"
+
+#: inc/about.php:74
+msgid "Activate Twenty Twenty"
+msgstr "Activer Twenty Twenty"
+
+#: inc/about.php:66
+msgid "Twentig offers powerful features to customize Twenty Twenty — making it the perfect combination to build your website."
+msgstr "Twentig vous offre de puissantes fonctionnalités pour personnaliser Twenty Twenty, ce qui en fait la combinaison idéale pour créer votre site web."
+
+#: inc/about.php:65
+msgid "The most popular WordPress theme like you’ve never seen."
+msgstr "Le thème WordPress le plus populaire comme vous ne l’avez jamais vu."
+
+#: inc/about.php:60
+msgid "From advanced Twenty Twenty options to enhanced blocks to pre‑designed layouts, you’ve got what you need to create a beautiful website."
+msgstr "Des options avancées pour Twenty Twenty aux blocs améliorés, en passant par les templates préconçus, vous avez tout pour créer un beau site web."
+
+#: inc/about.php:59
+msgid "Build your website with Twentig."
+msgstr "Créez votre site Web avec Twentig."
+
+#: inc/about.php:52
+msgid "Leave a review"
+msgstr "Laisser un avis"
+
+#: inc/about.php:50
+msgid "Primary menu"
+msgstr "Menu principal"
+
+#: inc/about.php:35
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/about.php:26
+msgid "Overview"
+msgstr "Présentation"
+
+#: inc/about.php:25
+msgid "Twentig Overview"
+msgstr "Présentation de Twentig"
+
+#: inc/block-presets.php:120
+msgid "Make the search form full width."
+msgstr "Mettre le formulaire de recherche en pleine largeur."
+
+#: inc/block-presets.php:119
+msgid "Center the search form."
+msgstr "Centrer le formulaire de recherche."
+
+#: inc/block-presets.php:107 inc/block-presets.php:112
+msgid "Hide the block only on large screens (only visible on live page)."
+msgstr "Masquer le bloc uniquement sur les écrans larges (uniquement visible sur la page en ligne)."
+
+#: inc/block-presets.php:106 inc/block-presets.php:111
+msgid "Hide the block only on medium screens (only visible on live page)."
+msgstr "Masquer le bloc uniquement sur les écrans moyens (uniquement visible sur la page en ligne)."
+
+#: inc/block-presets.php:105 inc/block-presets.php:110
+msgid "Hide the block only on small screens (only visible on live page)."
+msgstr "Masquer le bloc uniquement sur les écrans petits (uniquement visible sur la page en ligne)."
+
+#: inc/block-presets.php:102
+msgid "Make the buttons full width."
+msgstr "Mettre les boutons en pleine largeur."
+
+#: inc/block-presets.php:90 inc/block-presets.php:93 inc/block-presets.php:96
+#: inc/block-presets.php:99
+msgid "Add a frame around the block."
+msgstr "Ajouter un cadre autour du bloc."
+
+#: inc/block-presets.php:87
+msgid "Center the images of the last row. You must enable the “Fixed width columns” setting."
+msgstr "Centrer les images de la dernière ligne. Vous devez activer le réglage « Colonnes à largeur fixe »."
+
+#: inc/block-presets.php:84
+msgid "Add an inner border between the images (useful for logos)."
+msgstr "Ajouter une bordure intérieure entre les images (utile pour les logos)."
+
+#: inc/block-presets.php:83
+msgid "Add a border around the images (useful for logos and illustrations)."
+msgstr "Ajouter une bordure autour des images (utile pour les logos et les illustrations)."
+
+#: inc/block-presets.php:73
+msgid "Make the block full height. You must enable the “Crop image to fill entire column” setting."
+msgstr "Rendre le bloc en pleine hauteur. Vous devez activer le réglage « Recadrer l’image pour remplir toute la colonne »."
+
+#: inc/block-presets.php:68
+msgid "Center the columns horizontally (useful for 3 columns that stack into 2 on medium screens)."
+msgstr "Centrer les colonnes horizontalement (utile pour 3 colonnes qui s’empilent en 2 sur les écrans moyens)."
+
+#: inc/block-presets.php:58
+msgid "Make the last block of the group overlap the group just below."
+msgstr "Faire chevaucher le dernier bloc du groupe avec le groupe juste en dessous."
+
+#: inc/block-presets.php:57 inc/block-presets.php:63
+msgid "Remove the bottom padding."
+msgstr "Retirer la marge interne inférieure."
+
+#: inc/block-presets.php:56 inc/block-presets.php:62
+msgid "Remove the top padding."
+msgstr "Retirer la marge interne supérieure."
+
+#: inc/block-presets.php:46
+msgid "Set a loose spacing between the list items."
+msgstr "Définir un espacement ample entre les éléments de la liste."
+
+#: inc/block-presets.php:45
+msgid "Set a medium spacing between the list items."
+msgstr "Définir un espacement moyen entre les éléments de la liste."
+
+#: inc/block-presets.php:44 inc/block-presets.php:116
+msgid "Align text center."
+msgstr "Centrer le texte."
+
+#: inc/block-presets.php:27
+msgid "Add a short line below the heading."
+msgstr "Ajouter une ligne courte sous le titre."
+
+#: inc/block-presets.php:22 inc/block-presets.php:33
+msgid "Remove underline from link."
+msgstr "Retirer le soulignement du lien."
+
+#: inc/block-presets.php:21 inc/block-presets.php:32 inc/block-presets.php:47
+msgid "Underline link only on hover."
+msgstr "Souligner le lien uniquement au survol."
+
+#. translators: link to Google Fonts website
+#: inc/twentytwenty/index.php:789
+msgid "Enter a <a href=\"%s\" target=\"_blank\">Google Font</a> name."
+msgstr "Saisissez le nom d’une police <a href=\"%s\" target=\"_blank\">Google Font</a>."
+
+#: inc/twentytwenty/index.php:617
+msgid "Fallback Headings Font"
+msgstr "Police de secours de titre"
+
+#. translators: link to Google Fonts website
+#: inc/twentytwenty/index.php:599
+msgid "If the Headings Font is set as Secondary Font, it’s recommended that the 600 or 700 styles be available for your <a href=\"%s\" target=\"_blank\">Google Font</a>."
+msgstr "Si la police de titre est définie comme police secondaire, il est recommandé que les styles 600 ou 700 soient disponibles pour votre police <a href=\"%s\" target=\"_blank\">Google Font</a>."
+
+#: inc/twentytwenty/index.php:591
+msgid "Custom Headings Font"
+msgstr "Police personnalisée de titre"
+
+#: inc/twentytwenty/index.php:471
+msgid "Fallback Body Font"
+msgstr "Police de secours du corps"
+
+#. translators: link to Google Fonts website
+#: inc/twentytwenty/index.php:453
+msgid "It’s recommended that the 400 italic and 700 styles be available for your <a href=\"%s\" target=\"_blank\">Google Font</a>."
+msgstr "Il est recommandé que les styles 400 italic et 700 soient disponibles pour votre police <a href=\"%s\" target=\"_blank\">Google Font</a>."
+
+#: inc/twentytwenty/index.php:449 inc/twentytwenty/index.php:595
+#: inc/twentytwenty/index.php:785
+msgid "Font Name"
+msgstr "Nom de la police"
+
+#: inc/twentytwenty/index.php:445
+msgid "Custom Body Font"
+msgstr "Police personnalisée du corps"
+
+#: inc/twentytwenty/index.php:428 inc/twentytwenty/index.php:574
+#: inc/twentytwenty/index.php:764
+msgid "Custom Google Font"
+msgstr "Police Google Font personnalisée"
+
+#: inc/twentytwenty/index.php:427 inc/twentytwenty/index.php:573
+#: inc/twentytwenty/index.php:763
+msgid "Additional Fonts"
+msgstr "Polices supplémentaires"
+
+#: inc/twentytwenty/index.php:426 inc/twentytwenty/index.php:572
+#: inc/twentytwenty/index.php:762
+msgid "Curated Google Fonts"
+msgstr "Polices Google Fonts sélectionnées"
+
+#: inc/twentytwenty/index.php:422 inc/twentytwenty/index.php:568
+#: inc/twentytwenty/index.php:758
+msgid "Standard Fonts"
+msgstr "Polices standard"
+
+#: inc/twentytwenty/customizer/class-twentig-customize-font-presets-control.php:35
+msgid "View Presets"
+msgstr "Voir les préréglages"
+
+#: inc/twentytwenty/customizer/class-twentig-customize-font-presets-control.php:30
+msgid "Choosing a preset will override all the font settings."
+msgstr "Le choix d’un préréglage remplacera tous les réglages de police."
+
+#: inc/twentytwenty/customizer/class-twentig-customize-font-presets-control.php:29
+msgid "Presets"
+msgstr "Préréglages"
+
+#: inc/twentytwenty/index.php:1603 inc/twentytwenty/404.php:70
+msgid "404 Page"
+msgstr "Page 404"
+
+#: inc/twentytwenty/404.php:31
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+#: inc/twentytwenty/footer.php:248
+msgid "Powered by WordPress"
+msgstr "Propulsé par WordPress"
+
+#: inc/twentytwenty/footer.php:189
+msgid "Social links"
+msgstr "Réseaux sociaux"
+
+#: inc/twentytwenty/index.php:2121
+msgid "Desktop Horizontal Menu"
+msgstr "Menu horizontal grands écrans"
+
+#: inc/twentytwenty/index.php:2118
+msgid "Social Icons Locations"
+msgstr "Emplacements des icônes de réseaux sociaux"
+
+#: inc/twentytwenty/index.php:2001
+msgid "Elements Style"
+msgstr "Style des éléments"
+
+#: inc/twentytwenty/index.php:1960
+msgid "Image"
+msgstr "Image"
+
+#: inc/twentytwenty/index.php:1788
+msgid "Featured Image Aspect Ratio"
+msgstr "Proportion de l’image mise en avant"
+
+#. translators: link to theme options panel
+#: inc/twentytwenty/index.php:1716
+msgid "Set post content in the <a href=\"%s\">Theme Options panel</a>."
+msgstr "Définissez le contenu de la publication dans le <a href=\"%s\">panneau Options du thème</a>."
+
+#: inc/twentytwenty/index.php:1711
+msgid "Display post content"
+msgstr "Afficher le contenu de la publication"
+
+#: inc/twentytwenty/index.php:1672
+msgid "Grid"
+msgstr "Grille"
+
+#: inc/twentytwenty/index.php:1625
+msgid "To set a 404 page, you’ll first need to create a private page (to prevent search engines from indexing this page)."
+msgstr "Pour définir une page 404, vous devez d’abord créer une page privée (pour empêcher les moteurs de recherche d’indexer cette page)."
+
+#: inc/twentytwenty/index.php:1623
+msgid "Custom 404 Page"
+msgstr "Page 404 personnalisée"
+
+#: inc/twentytwenty/index.php:1555 inc/twentytwenty/index.php:1884
+msgid "No Image"
+msgstr "Aucune image"
+
+#: inc/twentytwenty/index.php:1548 inc/twentytwenty/index.php:1877
+msgid "Featured Image Layout"
+msgstr "Disposition de l’image mise en avant"
+
+#: inc/twentytwenty/index.php:1530
+msgid "Standard Pages"
+msgstr "Pages standard"
+
+#: inc/twentytwenty/index.php:1280 inc/twentytwenty/index.php:1500
+#: inc/twentytwenty/index.php:2094
+msgid "Social Icons"
+msgstr "Icônes de réseaux sociaux"
+
+#: inc/twentytwenty/index.php:1139 dist/index.js:1
+msgid "Shadow"
+msgstr "Ombre"
+
+#: inc/twentytwenty/index.php:1133
+msgid "Header Decoration"
+msgstr "Décoration de l’en-tête"
+
+#: inc/twentytwenty/index.php:1115
+msgid "Sticky Header"
+msgstr "En-tête fixe"
+
+#: inc/twentytwenty/index.php:1070
+msgid "Header Layout"
+msgstr "Mise en page de l’en-tête"
+
+#: inc/twentytwenty/index.php:144
+msgid "Caution: make sure that the color is accessible throughout the site (header, content, footer)."
+msgstr "Attention : assurez-vous que la couleur est accessible sur tout le site (en-tête, contenu, pied de page)."
+
+#: inc/twentytwenty/index.php:127
+msgid "Custom Hue"
+msgstr "Teinte personnalisée"
+
+#: inc/twentytwenty/customizer/class-twentig-customize-dropdown-pages-private-control.php:39
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Sélectionner &mdash;"
+
+#: inc/twentytwenty/index.php:358
+msgid "Text Width"
+msgstr "Largeur du texte"
+
+#: inc/twentytwenty/index.php:340
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: inc/twentytwenty/index.php:2159
+msgid "Subscribe"
+msgstr "S’abonner"
+
+#: inc/about.php:158 dist/index.js:5
+msgid "Get more"
+msgstr "Obtenez plus"
+
+#: inc/twentytwenty/index.php:1466
+msgid "Credit"
+msgstr "Crédit"
+
+#: inc/twentytwenty/index.php:1392
+msgid "Styles"
+msgstr "Styles"
+
+#: inc/twentytwenty/index.php:1376
+msgid "Footer Width"
+msgstr "Largeur du pied de page"
+
+#: inc/twentytwenty/index.php:1360
+msgid "For Row layout, Footer #1 area is above Footer #2 area, and the widgets are displayed inline inside each area."
+msgstr "Pour la disposition en ligne, la zone « Pied de page #1 » est au-dessus de la zone « Pied de page #2 » et les widgets sont affichés en ligne à l'intérieur de chaque zone."
+
+#: inc/twentytwenty/index.php:1358
+msgid "Row"
+msgstr "Ligne"
+
+#: inc/twentytwenty/index.php:1357
+msgid "Column (default)"
+msgstr "Colonne (par défaut)"
+
+#: inc/twentytwenty/index.php:1353
+msgid "Widgets Layout"
+msgstr "Mise en page des widgets"
+
+#: inc/twentytwenty/index.php:1328
+msgid "Bottom Footer Layout"
+msgstr "Mise en page de la partie inférieure du pied de page"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://twentig.com"
+msgstr "https://twentig.com"
+
+#: inc/twentytwenty/index.php:1797 dist/index.js:1
+msgid "Square"
+msgstr "Carré"
+
+#: inc/twentytwenty/index.php:2040
+msgid "Button Shape"
+msgstr "Forme du bouton"
+
+#: inc/twentytwenty/index.php:1978
+msgid "Display comments section"
+msgstr "Afficher la section commentaire"
+
+#: inc/twentytwenty/index.php:1955
+msgid "Navigation"
+msgstr "Navigation"
+
+#: inc/twentytwenty/index.php:1849
+msgid "Display meta icons"
+msgstr "Afficher les icônes des métas"
+
+#: inc/twentytwenty/index.php:1432
+msgid "Footer Link Color"
+msgstr "Couleur de lien du pied de page"
+
+#: inc/twentytwenty/index.php:1269
+msgid "Display label for menu and search buttons"
+msgstr "Afficher le libellé des boutons de menu et de recherche"
+
+#: inc/twentytwenty/index.php:1138 inc/twentytwenty/index.php:1223
+#: dist/index.js:1
+msgid "Border"
+msgstr "Bordure"
+
+#: inc/twentytwenty/index.php:1173
+msgid "Menu Item Spacing"
+msgstr "Espacement des éléments du menu"
+
+#. translators: link to fonts panel
+#: inc/twentytwenty/index.php:1153
+msgid "Visit the <a href=\"%s\">Fonts panel</a> to set the menu font."
+msgstr "Consultez le <a href=\"%s\">panneau Polices</a> pour définir la police du menu."
+
+#: inc/twentytwenty/index.php:1052 inc/twentytwenty/index.php:1310
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/twentytwenty/index.php:1022
+msgid "Menu Text Transform"
+msgstr "Transformation de texte du menu"
+
+#: inc/twentytwenty/index.php:998
+msgid "Menu Font Size"
+msgstr "Taille de police du menu"
+
+#: inc/twentytwenty/index.php:976
+msgid "Menu Font Weight"
+msgstr "Épaisseur de police du menu"
+
+#: inc/twentytwenty/index.php:954
+msgid "Menu Font"
+msgstr "Police du menu"
+
+#: inc/twentytwenty/index.php:935 inc/twentytwenty/index.php:1149
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/twentytwenty/index.php:925 inc/twentytwenty/index.php:1029
+msgid "Capitalize"
+msgstr "Capitaliser"
+
+#: inc/twentytwenty/index.php:924 inc/twentytwenty/index.php:1028
+msgid "Lowercase"
+msgstr "Minuscule"
+
+#: inc/twentytwenty/index.php:923 inc/twentytwenty/index.php:1027
+msgid "Uppercase"
+msgstr "Majuscule"
+
+#: inc/twentytwenty/index.php:918
+msgid "Site Title Text Transform"
+msgstr "Transformation de texte du titre du site"
+
+#: inc/twentytwenty/index.php:895
+msgid "Site Title Letter Spacing"
+msgstr "Interlettrage du titre du site"
+
+#: inc/twentytwenty/index.php:852
+msgid "Site Title Font Size (px)"
+msgstr "Taille de police du titre du site (px)"
+
+#: inc/twentytwenty/index.php:736
+msgid "As you’ve selected an image for the Logo, font settings for the Site Title are unavailable."
+msgstr "Comme vous avez sélectionné une image pour le logo, les réglages de police pour le titre du site ne sont pas disponibles."
+
+#: inc/twentytwenty/index.php:733
+msgid "Site Title"
+msgstr "Titre du site"
+
+#: inc/twentytwenty/index.php:724
+msgid "Applies to meta, footer, button, caption, input…"
+msgstr "S’applique aux métas, pied de page, bouton, légende, champ de texte…"
+
+#: inc/twentytwenty/index.php:717
+msgid "Secondary Font"
+msgstr "Police secondaire"
+
+#: inc/twentytwenty/index.php:698
+msgid "Secondary Elements"
+msgstr "Éléments secondaires"
+
+#: inc/twentytwenty/index.php:659
+msgid "Headings Letter Spacing"
+msgstr "Interlettrage de titre"
+
+#: inc/twentytwenty/index.php:641
+msgid "Headings Font Weight"
+msgstr "Épaisseur de police de titre"
+
+#: inc/twentytwenty/index.php:553 inc/twentytwenty/index.php:565
+#: inc/twentytwenty/index.php:722 inc/twentytwenty/index.php:959
+msgid "Headings Font"
+msgstr "Police de titre"
+
+#: inc/twentytwenty/index.php:534
+msgid "Headings"
+msgstr "Titres"
+
+#: inc/twentytwenty/index.php:518
+msgid "Body Line Height"
+msgstr "Interligne du corps"
+
+#: inc/twentytwenty/index.php:495
+msgid "Body Font Size"
+msgstr "Taille de police du corps"
+
+#: inc/twentytwenty/index.php:398
+msgid "Body"
+msgstr "Corps"
+
+#: inc/twentytwenty/index.php:376
+msgid "Fonts"
+msgstr "Polices"
+
+#: inc/twentytwenty/index.php:205
+msgid "Apply a custom color to the footer."
+msgstr "Appliquez une couleur personnalisée au pied de page."
+
+#: inc/twentytwenty/index.php:204
+msgid "Footer Background Color"
+msgstr "Couleur d’arrière-plan du pied de page"
+
+#: inc/twentytwenty/index.php:175
+msgid "Apply “Background Color” to the page title section"
+msgstr "Appliquer « Couleur d’arrière-plan » à la section de titre de page"
+
+#: inc/twentytwenty/index.php:156
+msgid "Twentig Colors"
+msgstr "Couleurs Twentig"
+
+#: inc/twentytwenty/index.php:1771
+msgid "Display featured image"
+msgstr "Afficher l’image mise en avant"
+
+#: inc/twentytwenty/index.php:1732
+msgid "Excerpt Length (words)"
+msgstr "Longueur de l’extrait (en mots)"
+
+#: inc/twentytwenty/index.php:1491
+msgid "To automatically display the current year, insert <code>[Y]</code>"
+msgstr "Pour afficher automatiquement l’année en cours, insérez <code>[Y]</code>"
+
+#: inc/twentytwenty/index.php:1252
+msgid "Replace the menu icon (horizontal dots) with a hamburger icon"
+msgstr "Remplacer l’icône de menu (points horizontaux) par une icône de « hamburger »"
+
+#: inc/twentytwenty/templates/template-cover.php:98
+msgid "Pages:"
+msgstr "Pages :"
+
+#: inc/twentytwenty/templates/template-cover.php:98
+msgid "Page"
+msgstr "Page"
+
+#: inc/twentytwenty/templates/template-cover.php:75
+msgid "Scroll Down"
+msgstr "Défiler vers le bas"
+
+#. translators: %s: HTML character for up arrow
+#: inc/twentytwenty/footer.php:100
+msgid "Up %s"
+msgstr "Haut %s"
+
+#. translators: %s: HTML character for up arrow
+#: inc/twentytwenty/footer.php:94
+msgid "To the top %s"
+msgstr "Vers le haut %s"
+
+#. translators: Copyright date format, see https://secure.php.net/date
+#: inc/twentytwenty/footer.php:238
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/twentytwenty/index.php:1471
+msgid "Copyright Only"
+msgstr "Copyright uniquement"
+
+#: inc/twentytwenty/index.php:1448
+msgid "Footer Credit"
+msgstr "Crédit du pied de page"
+
+#: inc/twentytwenty/index.php:1299 inc/twentytwenty/index.php:2124
+#: inc/twentytwenty/footer.php:161
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/twentytwenty/blog.php:26
+msgid "Continue reading"
+msgstr "Lire la suite"
+
+#: inc/twentytwenty/index.php:3315
+msgctxt "Name of the medium font size in the block editor"
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/twentytwenty/index.php:2146
+msgid "Logos Only"
+msgstr "Logos uniquement"
+
+#: inc/twentytwenty/index.php:2141
+msgid "Social Icons Style"
+msgstr "Style des icônes de réseaux sociaux"
+
+#: inc/twentytwenty/index.php:1224 inc/twentytwenty/index.php:2067
+#: dist/index.js:1
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/twentytwenty/index.php:2062
+msgid "Button Hover Style"
+msgstr "Style du bouton au survol"
+
+#: inc/twentytwenty/index.php:2019
+msgid "Separator Style"
+msgstr "Style du séparateur"
+
+#: inc/twentytwenty/index.php:1990
+msgid "Additional Settings"
+msgstr "Réglages supplémentaires"
+
+#: inc/twentytwenty/index.php:1905
+msgid "Display manual excerpt below the title"
+msgstr "Afficher l’extrait manuel sous le titre"
+
+#: inc/twentytwenty/index.php:1859
+msgid "Single Post"
+msgstr "Article seul"
+
+#: inc/twentytwenty/index.php:1831 inc/twentytwenty/index.php:1938
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/twentytwenty/index.php:1829 inc/twentytwenty/index.php:1936
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/twentytwenty/index.php:1828 inc/twentytwenty/index.php:1935
+msgid "Date"
+msgstr "Date"
+
+#: inc/twentytwenty/index.php:1827 inc/twentytwenty/index.php:1934
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/twentytwenty/index.php:1823 inc/twentytwenty/index.php:1930
+msgid "Post Meta"
+msgstr "Métas de la publication"
+
+#: inc/twentytwenty/index.php:1753
+msgid "Display “Continue reading”"
+msgstr "Afficher le lien « Lire la suite »"
+
+#: inc/twentytwenty/index.php:1666
+msgid "Blog Layout"
+msgstr "Mise en page du blog"
+
+#: inc/twentytwenty/index.php:1637
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/twentytwenty/index.php:1588
+msgid "Search Results Layout"
+msgstr "Mise en page des résultats de recherche"
+
+#: inc/twentytwenty/index.php:1519
+msgctxt "Customizer Section Title"
+msgid "Page"
+msgstr "Page"
+
+#: inc/twentytwenty/index.php:1201 inc/twentytwenty/index.php:1438
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: inc/twentytwenty/index.php:1200 inc/twentytwenty/index.php:1437
+msgid "Secondary Color"
+msgstr "Couleur secondaire"
+
+#: inc/twentytwenty/index.php:1199 inc/twentytwenty/index.php:1436
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: inc/twentytwenty/index.php:1195
+msgid "Menu Link Color"
+msgstr "Couleur de lien du menu"
+
+#: inc/twentytwenty/index.php:1093
+msgid "Header Width"
+msgstr "Largeur d’en-tête"
+
+#: inc/twentytwenty/index.php:1041
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/twentytwenty/index.php:681
+msgid "Heading 1 Font Size"
+msgstr "Taille de police du titre 1"
+
+#: inc/twentytwenty/index.php:424 inc/twentytwenty/index.php:570
+#: inc/twentytwenty/index.php:760
+msgid "UI System Font"
+msgstr "Police système"
+
+#: inc/twentytwenty/index.php:423 inc/twentytwenty/index.php:569
+#: inc/twentytwenty/index.php:759
+msgid "Default Theme Font"
+msgstr "Police par défaut du thème"
+
+#: inc/twentytwenty/index.php:419 inc/twentytwenty/index.php:721
+#: inc/twentytwenty/index.php:958
+msgid "Body Font"
+msgstr "Police du corps"
+
+#: inc/twentytwenty/index.php:311
+msgid "Post Cover Height"
+msgstr "Hauteur de la bannière d’article"
+
+#: inc/twentytwenty/index.php:271
+msgid "Page Cover Height"
+msgstr "Hauteur de la bannière de page"
+
+#: inc/twentytwenty/index.php:254
+msgid "Bottom"
+msgstr "Bas"
+
+#: inc/twentytwenty/index.php:253
+msgid "Middle"
+msgstr "Milieu"
+
+#: inc/twentytwenty/index.php:249
+msgid "Content Vertical Alignment"
+msgstr "Alignement vertical du contenu"
+
+#: inc/about.php:34 inc/about.php:205 inc/twentytwenty/index.php:230
+msgid "Twentig Settings"
+msgstr "Réglages Twentig"
+
+#: inc/twentytwenty/index.php:90
+msgid "Display Tagline"
+msgstr "Afficher le slogan"
+
+#: inc/twentytwenty/index.php:73
+msgid "Choose logo"
+msgstr "Choisir le logo"
+
+#: inc/twentytwenty/index.php:71
+msgid "No logo selected"
+msgstr "Aucun logo sélectionné"
+
+#: inc/twentytwenty/index.php:70 inc/twentytwenty/index.php:126
+#: inc/twentytwenty/index.php:1074 inc/twentytwenty/index.php:1332
+#: inc/twentytwenty/index.php:1470 inc/twentytwenty/index.php:1552
+#: inc/twentytwenty/index.php:1592 inc/twentytwenty/index.php:1670
+#: inc/twentytwenty/index.php:1881 inc/twentytwenty/index.php:1959
+#: inc/twentytwenty/index.php:2023 inc/twentytwenty/index.php:2145
+#: inc/twentytwenty/font.php:751 dist/index.js:1
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/twentytwenty/index.php:69
+msgid "Remove"
+msgstr "Retirer"
+
+#: inc/twentytwenty/index.php:68
+msgid "Change logo"
+msgstr "Changer le logo"
+
+#: inc/twentytwenty/index.php:67 inc/twentytwenty/index.php:72
+msgid "Select logo"
+msgstr "Sélectionner un logo"
+
+#: inc/twentytwenty/index.php:59
+msgid "Transparent Header Logo"
+msgstr "Logo pour l’en-tête transparent"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Twentig"
+msgstr "Twentig"

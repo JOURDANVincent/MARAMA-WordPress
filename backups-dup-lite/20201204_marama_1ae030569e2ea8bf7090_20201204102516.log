@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 4 December 2020 10h34
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.40
+WORDPRESS:	5.5.3
+PHP INFO:	7.4.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.4.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 6MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20201204_marama_1ae030569e2ea8bf7090_20201204102516_database.sql
+SQL FILE SIZE: 6.47MB (6786481)
+SQL FILE TIME: 2020-12-04 10:34:16
+SQL RUNTIME: 16.26 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/MyPhpProjects/myWordPressProject
+ARCHIVE FILE: 20201204_marama_1ae030569e2ea8bf7090_20201204102516_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	151.3MB
+STATS:	Dirs 1,280 | Files 8,141
+SQL ADDED: 20201204_marama_1ae030569e2ea8bf7090_20201204102516_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9421
+    [filename] => C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-content\backups-dup-lite\tmp\20201204_marama_1ae030569e2ea8bf7090_20201204102516_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 9420
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 64.01MB
+ARCHIVE RUNTIME: 41.59 sec.
+MEMORY STACK: 8MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/MyPhpProjects/myWordPressProject/wp-content/backups-dup-lite/tmp/20201204_marama_1ae030569e2ea8bf7090_20201204102516_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 6.47MB
+INSTALLER FILE: 61.31KB
+ARCHIVE FILE: 65.55MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 9,421
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 9,420
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 60.54 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20201204_marama 4 December 2020 10h35
+
