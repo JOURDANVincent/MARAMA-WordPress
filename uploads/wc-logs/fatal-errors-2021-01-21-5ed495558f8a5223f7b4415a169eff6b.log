@@ -1,0 +1,20 @@
+2021-01-21T09:23:05+00:00 CRITICAL Uncaught Error: Call to a member function exec() on null in C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-content\plugins\LAMANU-cookie-law\view\option.php:93
+Stack trace:
+#0 C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-admin\admin.php(293): include()
+#1 {main}
+  thrown dans C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-content\plugins\LAMANU-cookie-law\view\option.php à la ligne 93
+
+2021-01-21T09:23:44+00:00 CRITICAL Uncaught Error: Call to a member function exec() on null in C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-content\plugins\LAMANU-cookie-law\view\option.php:93
+Stack trace:
+#0 C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-admin\admin.php(293): include()
+#1 {main}
+  thrown dans C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-content\plugins\LAMANU-cookie-law\view\option.php à la ligne 93
+
+2021-01-21T09:24:30+00:00 CRITICAL Uncaught Error: Call to a member function exec() on null in C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-content\plugins\LAMANU-cookie-law\view\option.php:93
+Stack trace:
+#0 C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-admin\admin.php(293): include()
+#1 {main}
+  thrown dans C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-content\plugins\LAMANU-cookie-law\view\option.php à la ligne 93
+
+2021-01-21T14:43:50+00:00 CRITICAL syntax error, unexpected '}' dans C:\xampp\htdocs\MyPhpProjects\myWordPressProject\wp-content\plugins\LAMANU-cookie-law\view\option_wp.php à la ligne 83
+

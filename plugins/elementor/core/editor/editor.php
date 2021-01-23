@@ -1068,16 +1068,8 @@ class Editor {
 		 * Used to prints scripts or any other HTML before closing the body tag.
 		 *
 		 * @since 1.0.0
-		 * 
-		 * 
 		 */
-
-		echo date('Y-m-d H:i:s');
-		 
 		do_action( 'elementor/editor/footer' );
-
-
-		 
 	}
 
 	/**

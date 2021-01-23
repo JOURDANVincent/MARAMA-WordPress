@@ -1567,6 +1567,7 @@ function bizberg_get_menu_btn(){
 
 if( !function_exists( 'bizberg_get_footer' ) ){
 	function bizberg_get_footer(){ 
+		
 		bizberg_get_footer_5();
 	}
 }
@@ -1617,6 +1618,12 @@ function bizberg_get_footer_5(){
 		        </div>
 		        <?php 
 		    } ?>
+
+			<?php 
+				$date = date("d-m-Y");
+				$heure = date("H:i");
+				Print("Nous sommes le $date et il est $heure");
+			?>
 
 	        <?php
 	        wp_nav_menu( array(

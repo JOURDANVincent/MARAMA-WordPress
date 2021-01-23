@@ -1,0 +1,165 @@
+/*
+Theme Name: Bizberg My Dark
+Template: bizberg
+Text Domain: bizberg-my-dark
+Author: JOURDAn Vincent
+Author URI: https://cyclonethemes.com/
+Theme URI: https://bizbergthemes.com/downloads/bizberg-consulting-dark/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Description: Bizberg Consulting Dark is a free Consulting WordPress theme oriented to consulting, business and financial services. It is perfect platform to create a professional website for business consultant, accountants, investment firms, insurance, tax advisor, startups, financial advisor, marketing and any other consultancy corporations. This is a versatile, tech-savvy and responsive multipurpose website theme that is developed to satisfy all business needs. This theme can also be used for corporate, business, personal blog, law firm, banking, ecommerce, fashion blog, yoga, charity, gym, travel, news, education, transport and any other general business needs. This theme is the perfect and reliable toolkit for crafting impressive websites to grow your online business. This Free WordPress theme is fully responsive, cross-browser compatible, translation ready & SEO friendly. If you run into any problem while using our theme, you can refer to extensive documentation or contact our friendly support team. It fully supports Elementor, all the sections are made from Elementor.
+Tags: custom-logo,custom-menu,featured-images,threaded-comments,translation-ready,left-sidebar,right-sidebar,grid-layout,theme-options,blog,news,portfolio
+Version: 0.3
+Requires at least: 4.9
+Tested up to: 5.3
+*/
+
+
+.bizberg_cocntent_wrapper,
+.blog-post {
+    background-color: #203040 !important;
+    /* background-color: #101010 !important; */
+    border: 1px solid #808080 !important;
+    
+}
+
+/* .primary_header_2_wrapper  {
+    height: 600px !important;
+} */
+
+.detail_image_wrapper img {
+    border: 1px solid #808080 !important;
+}
+div#respond {
+    border-top: 1px solid #808080 !important;
+}
+
+.navbar-nav>li>a:hover,
+.navbar-nav>li>a:focus {
+    color: white !important;
+}
+
+a:focus,
+a:hover,
+#responsive-menu > li > a:focus {
+    border: 0 !important;
+    outline: none !important;
+    color: black !important;
+}
+
+.inline-menu li {
+    border: none !important;
+    outline: none !important;
+}
+
+#footer ul.inline-menu > li a,
+#footer .copyright a {
+    border: none !important;
+}
+
+#footer ul.inline-menu > li a:hover,
+#footer .copyright a:hover {
+    color: #808080 !important;
+}
+
+
+
+#back-to-top a {
+    background-color: #203040 !important;
+}
+#back-to-top a:hover {
+    background-color: #1c4c7c !important;
+}
+
+.bizberg_detail_comment_count,
+.bizberg_detail_user_wrapper a {
+    color: white !important;
+}
+.bizberg_detail_user_wrapper a:hover, 
+.bizberg_detail_user_wrapper a:focus{
+    color: #808080 !important;
+}
+
+#submit,
+#comment {
+    background-color: #808080 !important;
+    border: 1px solid black !important;
+    /* box-shadow: 2px 2px 5px 2px black !important; */
+    border-radius: 5px !important;
+}
+
+figure img {
+    border: 1px solid #808080 !important;
+}
+
+
+/*  --------------- woocommeerce -------------------------------- */
+
+.wc-forward,
+.woocommerce div.product form.cart .button,
+.woocommerce .woocommerce-ordering select,
+.woocommerce ul.products li.product .button,
+.wpcf7-submit,
+#submit {
+    background-color: #808080 !important;
+    color: white !important;
+}
+
+.wc-forward:hover,
+.woocommerce div.product form.cart .button:hover,
+.woocommerce .woocommerce-ordering select:hover,
+.woocommerce ul.products li.product .button:hover,
+.woocommerce ul.products li.product .button:hover,
+.wpcf7-submit:hover,
+#submit:hover {
+    background-color: #1c4c7c !important;
+    color: white !important;
+    /* border: 1px solid black !important; */
+}
+
+.woocommerce-ordering select option:hover {
+    background-color: red;
+}
+
+.woocommerce-Price-amount bdi {
+    color: white !important;
+}
+
+.related .products img,
+.products img {
+    border-radius: 5px !important;
+}
+
+.quantity input {
+    color: black;
+}
+
+.panel {
+    background-color: #203040 !important;
+    border: 1px solid #808080;
+}
+
+.woocommerce-message {
+    background-color: #808080 !important;
+    border: 1px solid #203040;
+}
+
+/* .woocommerce-message::before {
+    background-color: black;
+
+} */
+
+
+
+/* form control */
+
+.wpcf7-form-control,
+.wpcf7-form-control:hover,
+.wpcf7-form-control:focus,
+input,
+input:hover,
+input:focus,
+img,
+img:hover {
+    border-radius: 5px !important;
+}
